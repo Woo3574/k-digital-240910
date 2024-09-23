@@ -18,7 +18,8 @@ public class BasicEx {
         System.out.println( 100 + 200 + "점수"); // 결합 순서에 따라 출력이 달라짐 정수가 앞에 있으면 정수계산하고 문자열
         System.out.printf("%d점\n", 300); // %d == decimal
         System.out.printf("%s\n", "경기도 수원시"); // %s == string
-        char gender = 'M'; // JAVA는 문자와 문자열은 다르다, 문자는 아스키코드값
+        char gender = 'A'; // JAVA는 문자와 문자열은 다르다, ' ' = 문자,아스키코드값 " "= 문자열
+        System.out.printf("%d\n",(int)gender);
         System.out.printf("%c\n", gender); // %c == charator
         System.out.printf("%.2f\n", 3.1459245);
         //기본타입은 첫글자가 소문자, 참조타입은 대문자
