@@ -1,4 +1,4 @@
-package 기본연습;
+package Aa.기본연습;
 /*
     Date : 2024.09.23
     Author : 김태우

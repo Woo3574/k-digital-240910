@@ -1,4 +1,4 @@
-package 상수와리터럴;
+package Ac.상수와리터럴;
 import java.util.Scanner;
 // 상수란? 메모리에 값이 한번 지정되면 변경 할 수 없음
 // 자바에서는 상수 정의를 final 키워드를 사용
