@@ -150,8 +150,18 @@ public class PlacticeNote {
 
     static void arraySort() {
         // 정렬 알고리즘 종류 : 버블 정렬0(n2), 삽입정렬0(n2), 병합정렬0(nlogn), 퀵정렬0(nlogn)
-        int[] arry = {9, 4, 6, 7 ,2 ,3 ,5 ,1};
+//        int[] arry = {9, 4, 6, 7 ,2 ,3 ,5 ,1}; // 길이 8
+//        int empty = 0;
+//        for (int i = 0; i < arry.length; i++) {
+//            for (int j = i; j < arry.length; j++) {
+//                if(arry[i] > arry[j]) {
+//                    empty = arry[i];
+//                    arry[i] = arry[j];
+//                    arry[j] = empty;
+//                }
+//            }
+//        } for (int e : arry){
+//            System.out.print(e + " ");
+//        }
     }
-
-
 }
