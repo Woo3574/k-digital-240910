@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.25">
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Woo3574&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Woo3574/k-digital-240910.git&quot;,
+    &quot;accountId&quot;: &quot;a594cc16-9df6-44c3-970f-40f3cfa83422&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mW7SU1psFUc9AaG4EKFVt3aaCC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Study-java/k-digital-240910",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "애플리케이션.AlarmEx.executor": "Run",
+    "애플리케이션.BasicEx.executor": "Run",
+    "애플리케이션.ConstEx.executor": "Run",
+    "애플리케이션.PlacticeNote.executor": "Run",
+    "애플리케이션.VariableEx.executor": "Run",
+    "애플리케이션.alsonoteasy.executor": "Run",
+    "애플리케이션.memory.executor": "Run"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="" />
+      <created>1727180480245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727180480245</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2024.09.25">
+      <option name="closed" value="true" />
+      <created>1727268660222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727268660222</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024.09.25">
+      <option name="closed" value="true" />
+      <created>1727268753374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727268753374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.09.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.09.25" />
+  </component>
+</project>
