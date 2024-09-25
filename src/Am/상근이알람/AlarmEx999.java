@@ -2,7 +2,7 @@ package Am.상근이알람;
 // 교수님이 푼문제
 import java.util.Scanner;
 
-public class AlarmEx2 {
+public class AlarmEx999 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int hour =sc.nextInt();

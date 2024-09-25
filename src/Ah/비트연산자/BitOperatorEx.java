@@ -10,5 +10,6 @@ public class BitOperatorEx {
         System.out.println(~num1); // -11 (2의보수)
         System.out.println(num1 << 1); // 20 (쉬프트 연산자)  왼쪽 1 쉬프트
         System.out.println(num1 >> 1); //5  오른쪽1 쉬프트
+        System.out.println(~num2);
     }
 }
