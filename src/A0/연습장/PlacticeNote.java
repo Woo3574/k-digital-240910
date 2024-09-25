@@ -7,6 +7,8 @@ public class PlacticeNote {
         condition(); // Ai조건문 연습
         switchEx(); // Ajswitch case문 연습
         gradeEx(); // Ak.등급출력하기
+        arrayEx(); // Ar.배열
+        arraySort(); // At.배열정렬
     }
 
     static void condition() {
@@ -116,4 +118,40 @@ public class PlacticeNote {
 //            System.out.println("잘못된 값을 입력하셨습니다.");
 //        }
     }
+
+    static void arrayEx() {
+        int[] score = new int[3];
+
+//        score[0] = 70;
+//        score[1] = 80;
+//        score[2] = 90;
+//
+//        // 범위 기반 for문 사용, 배열의 내용을 변경 할 수 있음,범위를 지정해서 순회 가능
+//        for (int i = 0; i < score.length; i++) {
+//            score[i] = score[i] + 10;
+//            System.out.print(score[i] + " ");
+//        }
+//        System.out.println();
+//
+//        // 향상된 for문 사용,배열의 내용을 변경 할 수 없음,무조건 전체 순회
+//        for(int e : score) { //배열 변수 할당된 메모리 요소(e)개별로 전체 순회
+//            e = e + 10;
+//            System.out.print(e + " ");
+//        }
+//
+//        // 배열의 선언하는 여러가지 방법
+//        int[] num = new int[4];
+//        int[] num2 = {88, 99, 452};
+//        int[] num3;
+//        num3 = new int[4];
+//        int[] num4;
+//        num4 = new int[]{35, 68, 80};
+    }
+
+    static void arraySort() {
+        // 정렬 알고리즘 종류 : 버블 정렬0(n2), 삽입정렬0(n2), 병합정렬0(nlogn), 퀵정렬0(nlogn)
+        int[] arry = {9, 4, 6, 7 ,2 ,3 ,5 ,1};
+    }
+
+
 }
