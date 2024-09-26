@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.25">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.26" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,22 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Study-java/k-digital-240910",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "애플리케이션.AlarmEx.executor": "Run",
-    "애플리케이션.BasicEx.executor": "Run",
-    "애플리케이션.ConstEx.executor": "Run",
-    "애플리케이션.PlacticeNote.executor": "Run",
-    "애플리케이션.VariableEx.executor": "Run",
-    "애플리케이션.alsonoteasy.executor": "Run",
-    "애플리케이션.memory.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Study-java/k-digital-240910&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;애플리케이션.AlarmEx.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BasicEx.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ConstEx.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PlacticeNote.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VariableEx.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.alsonoteasy.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.memory.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -112,8 +109,20 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.09.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.09.25" />
+    <MESSAGE value="2024.09.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.09.26" />
   </component>
 </project>
