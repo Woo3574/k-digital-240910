@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.26">
-      <change afterPath="$PROJECT_DIR$/src/Bb/생성자오버로딩/OverloadingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bb/생성자오버로딩/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bc/영화표예매하기/MovieMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bc/영화표예매하기/MovieTicket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ba/필드와메서드/FildAndMethodEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ba/필드와메서드/FildAndMethodEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bb/생성자오버로딩/OverloadingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bb/생성자오버로딩/OverloadingEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bb/생성자오버로딩/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bb/생성자오버로딩/Television.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.MemberInfoEx.executor": "Run",
+    "애플리케이션.OverloadingEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
@@ -145,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727322604179</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2024.09.26">
+      <option name="closed" value="true" />
+      <created>1727329840747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727329840747</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
