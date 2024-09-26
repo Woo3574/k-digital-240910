@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68491a63-f9d1-4692-91b4-8fb78af7d98d" name="변경" comment="2024.09.25" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.25">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +32,14 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Woo3574/k-digital-240910.git&quot;,
-    &quot;accountId&quot;: &quot;6ce6fe45-b811-4a37-8720-c64a0dd0fe3a&quot;
+    &quot;accountId&quot;: &quot;a594cc16-9df6-44c3-970f-40f3cfa83422&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2mVhblrO4JV8D3SWB7Wf7kMYX6Z" />
+  <component name="ProjectId" id="2mW7SU1psFUc9AaG4EKFVt3aaCC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,63 +49,71 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "애플리케이션.ArrayEx.executor": "Run",
-    "애플리케이션.ArraySort.executor": "Run",
-    "애플리케이션.AverEx1.executor": "Run",
-    "애플리케이션.AverEx2.executor": "Run",
-    "애플리케이션.BitOperatorEx.executor": "Run",
-    "애플리케이션.CommandInput (3).executor": "Run",
-    "애플리케이션.CommandInput.executor": "Run",
-    "애플리케이션.ConditionEx.executor": "Run",
-    "애플리케이션.CopyTypeEx.executor": "Run",
-    "애플리케이션.DoubleArrEx.executor": "Run",
-    "애플리케이션.IteratorEx.executor": "Run",
-    "애플리케이션.IteratorEx2.executor": "Run",
-    "애플리케이션.IteratorEx999.executor": "Run",
-    "애플리케이션.KmpRx.executor": "Run",
+    "last_opened_file_path": "C:/Study-java/k-digital-240910",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "애플리케이션.AlarmEx.executor": "Run",
+    "애플리케이션.BasicEx.executor": "Run",
+    "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
-    "애플리케이션.ReferenceEx.executor": "Run",
-    "애플리케이션.StringEx.executor": "Run",
-    "애플리케이션.WhileEx1.executor": "Run"
+    "애플리케이션.VariableEx.executor": "Run",
+    "애플리케이션.alsonoteasy.executor": "Run",
+    "애플리케이션.memory.executor": "Run"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="68491a63-f9d1-4692-91b4-8fb78af7d98d" name="변경" comment="" />
-      <created>1727167725818</created>
+      <changelist id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="" />
+      <created>1727180480245</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727167725818</updated>
+      <updated>1727180480245</updated>
     </task>
     <task id="LOCAL-00001" summary="2024.09.25">
       <option name="closed" value="true" />
-      <created>1727253938981</created>
+      <created>1727268660222</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1727253938981</updated>
+      <updated>1727268660222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024.09.25">
+      <option name="closed" value="true" />
+      <created>1727268753374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727268753374</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2024.09.25">
+      <option name="closed" value="true" />
+      <created>1727273618026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727273618026</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2024.09.25">
+      <option name="closed" value="true" />
+      <created>1727273634060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727273634060</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2024.09.25">
+      <option name="closed" value="true" />
+      <created>1727275602083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727275602083</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.09.25" />
     <option name="LAST_COMMIT_MESSAGE" value="2024.09.25" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Au/이차원배열/DoubleArrEx.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

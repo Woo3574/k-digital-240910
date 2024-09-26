@@ -36,7 +36,7 @@ public class ConditionEx {
 //        else if(num < 100) System.out.println(num + "이 100보다 작아요.");
 //        else System.out.println(num + "이 100과 같아요.");
 //
-//        //입력 받은 문자가 대문자인자 소문자인지 출력 하기
+//        //입력 받은 문자가 대문자인지 소문자인지 출력 하기
 //        System.out.print("문자를 입력 : ");
 //        Scanner ac = new Scanner(System.in);
 //        char ch = ac.next().charAt(0);
