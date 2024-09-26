@@ -14,6 +14,7 @@ public class MemberInfoEx {
         // 회원의 이름확인 (getter의 사용법)
         System.out.println("회원의 이름 : " + member.getName());
 
-        // 캡슐화 : 내부 인스턴스의 값을 숨기기위해서 제한적접근자 praivate,getter,setter
+        // 캡슐화 : 내부 인스턴스의 값을 숨기기위해서 제한적접근자 praivate,protected,public 등
+        // 접근제한자의 값을 가져오거나 쓸때 사용하는 것이 getter,setter
     }
 }
