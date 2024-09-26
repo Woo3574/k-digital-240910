@@ -22,14 +22,18 @@ public class Member {
 
     // 이게 생성자, 생성자의 이름은 클래스와동일하다, 반환타입이 없다, 반환타입이 없다는것, void가 없는것
     // 자바에서 생성자를 만들지 않으면 기본 생성자가 자동으로 만들어짐
-    public void setName() {
+    public void setName() {  // 인스턴스 메서드
         System.out.print("이름을 입력 : ");
         name = sc.nextLine();
+    }
+    // 회원의 이름확인 (getter의 사용법)(main class 맨아래에 있음)
+    public String getName() {  // 인스턴스 메서드
+        return name;
     }
 
     // void는 반환값을 요구하지않음
     // return 호출한쪽으로 값을 돌려보내주는것
-    public void setAge() {
+    public void setAge() { // 인스턴스 메서드
         while (true) {
             System.out.print("나이를 입력 : ");
             age = sc.nextInt();
@@ -39,7 +43,7 @@ public class Member {
     }
 
     // continue 반복문의 조건식으로 돌아 감
-    public void setGender() {
+    public void setGender() { // 인스턴스 메서드
         while (true) {
             System.out.print("성별을 입력 :");
             gender = sc.next().charAt(0); // 문자에 대한 입력은 문자열에 해당 인덱스의 문자를 추출(문자열에 하나를 추출)
@@ -55,7 +59,12 @@ public class Member {
         }
     }
 
-    public void setJob() {
+    public int getGenderType() { // 반환 타입이 존재 함(int) ,인스턴스 메서드
+        if (gender == 'M' || gender =='m') return 1;
+        else return 2;
+    }
+
+    public void setJob() { // 인스턴스 메서드
         while (true) {
             System.out.print("직업을 입력 : ");
             job = sc.nextInt();
@@ -64,8 +73,13 @@ public class Member {
         }
     }
 
-    public void getInfo() {
+    public void getInfo() { // 인스턴스 메서드
         String[] genderStr = {"", "남성", "여성"}; // 입력된 값과 배열의 인덱스를 일치하기 위해서 첫번째를 비워 둠
         String[] jobStr = {"", "학생", "회사원", "주부", "무직"};
+        System.out.println("======== 회원 정보 ========");
+        System.out.println("이름 : " + name);
+        System.out.println("나이 : " + age);
+        System.out.println("성별 : " + genderStr[getGenderType()]);
+        System.out.println("직업 : " + jobStr[job]);
     }
 }
