@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.26">
-      <change afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IpadMain.java" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.27">
+      <change afterPath="$PROJECT_DIR$/src/Bf/메서드오버로딩/MethodOverloadingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bg/상속기본형/InheritanceBasicEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +56,10 @@
     "애플리케이션.BasicEx.executor": "Run",
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.FildAndMethodEx2.executor": "Run",
+    "애플리케이션.InheritanceBasicEx.executor": "Run",
     "애플리케이션.IpadMain.executor": "Run",
     "애플리케이션.MemberInfoEx.executor": "Run",
+    "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
     "애플리케이션.OverloadingEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
@@ -172,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727339567630</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2024.09.27">
+      <option name="closed" value="true" />
+      <created>1727405077224</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727405077224</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.09.25" />
     <MESSAGE value="2024.09.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.09.26" />
+    <MESSAGE value="2024.09.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.09.27" />
   </component>
 </project>
