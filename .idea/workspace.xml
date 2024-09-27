@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.27">
-      <change afterPath="$PROJECT_DIR$/src/A1/Common/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bi/상속TV/InheristanceTVMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bi/상속TV/ProductTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bi/상속TV/ProtoTypeTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj/객체타입확인/ObjectTypeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bk/매개변수의다형성/ParamPolyEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bl/다형성Driver/PolyDriverEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bm/슈퍼메서드/SuperMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Be/아이패드주문하기/Common.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +64,10 @@
     "애플리케이션.MemberInfoEx.executor": "Run",
     "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
+    "애플리케이션.ObjectTypeEx.executor": "Run",
     "애플리케이션.OverloadingEx.executor": "Run",
     "애플리케이션.OverrideEx.executor": "Run",
+    "애플리케이션.ParamPolyEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
@@ -203,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727416358861</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2024.09.27">
+      <option name="closed" value="true" />
+      <created>1727420527632</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727420527632</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
