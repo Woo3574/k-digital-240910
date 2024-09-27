@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 import static java.lang.Thread.sleep;
+import static Be.아이패드주문하기.Common.*; //common 클래스에 내용 가져다사용하기
 
 public class IPadPro {
 
@@ -96,10 +97,10 @@ public class IPadPro {
     }
     // 제품에 대한 선택 옵션과 일련번호, 총 가격
     public void iPadProInfo() {
-        final String[] screenType = {"", "11인치", "13인치"};
-        final String[] colorType = {"", "스페이스 그레이", "실버"};
-        final String[] memoryType = {"", "256GB", "512GB", "1TB", "2TB"};
-        final String[] networkType = {"", "WiFi", "WiFi+Cellular"};
+//        final String[] screenType = {"", "11인치", "13인치"};
+//        final String[] colorType = {"", "스페이스 그레이", "실버"};
+//        final String[] memoryType = {"", "256GB", "512GB", "1TB", "2TB"};
+//        final String[] networkType = {"", "WiFi", "WiFi+Cellular"};
         System.out.println("======== iPad Pro가 출고 되었습니다. ========");
         System.out.println("화면 크기 : " + screenType[screen]);
         System.out.println("색상 : " + colorType[color]);

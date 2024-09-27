@@ -16,7 +16,7 @@ public class InheritanceBasicEx {
         System.out.println(dog.getName());
         HouseDog houseDog = new HouseDog();
         houseDog.setName("댕댕이");
-        houseDog.sleep();
+        houseDog.sleep(4);
     }
 }
 
@@ -30,15 +30,20 @@ class Animal {
         return name;
     }
 }
-class Dog extends Animal { //  extends 부모클래스 변수
+class Dog extends Animal { // 상속받는 자식클래스  extends 부모클래스
     void sleep() {
         System.out.println(name + " zzz");
     }
 }
 
 class HouseDog extends Dog {
-    @Override
+    @Override  //  @어노테이션, 문법적으로 오버라이딩 관계 성립 여부 체크,
+    // 오버라이딩 관계가 성립할려면 메서드의 이름과 반환 타입도 같아야 함
     void sleep() {
         System.out.println(name + " zzz in house");
+    }
+    // 오버라이딩 이후 오버로딩
+    void sleep(int hour) {
+        System.out.println(name + " zzz in house for " + hour + "hour");
     }
 }
