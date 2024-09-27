@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 import static java.lang.Thread.sleep;
-import static Be.아이패드주문하기.Common.*; //common 클래스에 내용 가져다사용하기
+import static A1.Common.Common.*; //common 클래스에 내용 가져다사용하기
 
 public class IPadPro {
 
