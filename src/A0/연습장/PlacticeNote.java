@@ -2,7 +2,8 @@ package A0.연습장;
 
 import java.util.Scanner;
 
-public class PlacticeNote {
+public class
+PlacticeNote {
     public static void main(String[] args) {
         condition(); // Ai조건문 연습
         switchEx(); // Ajswitch case문 연습
