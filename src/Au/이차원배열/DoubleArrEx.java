@@ -4,7 +4,7 @@ public class DoubleArrEx {
     public static void main(String[] args) {
         int[][] arr = new int[2][3]; // arr은 주소 stack영역, Heap영역에 저장된  값의 메모리 형태 2행 3열  arr[0][0] ==1행1열, arr[1][0]== [2행][1열]
         int cnt = 1;
-        for(int i = 0; i < arr. length; i++) {
+        for(int i = 0; i < arr.length; i++) {
             for(int j = 0; j < arr[i].length; j++) {
                 arr[i][j] = cnt++;
             }

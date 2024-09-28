@@ -22,7 +22,9 @@ PlacticeNote {
         stringEx(); // Ax문.자열다루기
         stringEx();
         upperlowch();
-
+        kmpRx(); // Ay.KMP암호화
+        kmpRx2();
+        kmpRx3();
     }
 
     static void condition() {
@@ -222,19 +224,19 @@ PlacticeNote {
     // 1 ~ 1000까지의 7의 배수를 구하고, 한줄에 10개 항목씩 출력하기
     // for (초기값; 조건식; 증감값)
     static void iterator4() {
-        int sum;
-        int cnt = 0;
-        for (int i = 1; i < 1000; i++) {
-            sum = i % 7;
-            if (sum == 0 ){
-                System.out.printf("%6d", i);
-                cnt++;
-            }
-            else if (cnt == 10) {
-                System.out.println();
-                cnt = 0;
-            }
-        }
+//        int sum;
+//        int cnt = 0;
+//        for (int i = 1; i < 1000; i++) {
+//            sum = i % 7;
+//            if (sum == 0 ){
+//                System.out.printf("%6d", i);
+//                cnt++;
+//            }
+//            else if (cnt == 10) {
+//                System.out.println();
+//                cnt = 0;
+//            }
+//        }
     }
 
 
@@ -412,9 +414,8 @@ PlacticeNote {
 //        for(char el : ch ) {
 //            System.out.print(el+ " ");
 //        }
-//
-
     }
+
     // 실습 문제 : 대문자,소문자로 이루어진 문자열을 입력 받아, 대문자는 소문자로, 소문자는 대문자로 반환
     // 'A' = 65 'a' = 97 'Z' = 90 'z'=122
     static void upperlowch() {
@@ -433,5 +434,30 @@ PlacticeNote {
 //            }
 //        }
     }
+
+    // Knuth-Morris-Pratt => KMP
+    // Korea-Seoul => KS
+    // Mirko-Slavko => MS
+    static void kmpRx() { // 문자열을 순회해서 조건에 해당하는 값만 출력
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("문자열을 입력 : ");
+//        String str = sc.nextLine();
+//        for (int i = 0; i < str.length(); i++) {
+//            char ch = str.charAt(i);
+//            if (ch >= 'A' && ch <= 'Z') System.out.print(ch);
+//        }
+    }
+
+    static void kmpRx2() { // - 기준으로 분리해서 첫번째 문자만 출력
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("문자열을 입력 : ");
+//        String str = sc.nextLine();
+//        String[] strSplit = str.split("-");
+//        for (String e : strSplit) {
+//            System.out.print(e.charAt(0));
+//        }
+    }
+
+    static void kmpRx3() {}
 
 }
