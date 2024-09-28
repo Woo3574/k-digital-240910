@@ -10,6 +10,10 @@ PlacticeNote {
         gradeEx(); // Ak.등급출력하기
         swtichEX(); // Al.스위치문계산기
         alarmEx(); // AM.상근이알람
+        iterator(); // Ap.반복문연습
+        iterator2();
+        iterator3();
+        iterator4();
         arrayEx(); // Ar.배열
         arraySort(); // At.배열정렬
         doubleArrEx(); // Au.이차원배열
@@ -18,6 +22,7 @@ PlacticeNote {
         stringEx(); // Ax문.자열다루기
         stringEx();
         upperlowch();
+
     }
 
     static void condition() {
@@ -170,8 +175,68 @@ PlacticeNote {
 //            min = (allTime - 45) % 60;
 //            System.out.printf("예정된 알람시간은 " + hour + "시" + min +"분 입니다.");
 //        }
-
     }
+
+    // 구구단 구하기
+    // 단수 입력:
+    static void iterator() {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("구구단 단수 입력 : ");
+//        int mpcT = sc.nextInt(); // mutiplicationTable 곱셈표
+//        for (int i = 1; i < 10; i++) {
+//            System.out.println(mpcT + "x" + i + "=" + mpcT*i );
+//        }
+    }
+
+    // 구구단 표만들기
+    static void iterator2() {
+//        int cnt = 1;
+//        while (cnt < 10) {
+//            for (int i = 1; i < 10; i++) {
+//                System.out.print(i + "단 : ");
+//                for (int j = 1; j < 10; j++) {
+//                    System.out.printf("%-12S", (i + " X " + j + " = " + i*j));
+//                } System.out.println();
+//              cnt++;
+//            }
+//        } System.out.println("구구단을 마치겠습니다");
+    }
+
+    // 입력이 5인 경우
+    // *****
+    // ****
+    // ***
+    // **
+    // *
+    static void iterator3() {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("정수 입력 : ");
+//        int star = sc.nextInt();
+//        for (int i = 0; i < star; i++) {
+//            for (int j = 0; j < star - i ; j++) {
+//                System.out.print("*");
+//            }System.out.println();
+//        }
+    }
+
+    // 1 ~ 1000까지의 7의 배수를 구하고, 한줄에 10개 항목씩 출력하기
+    // for (초기값; 조건식; 증감값)
+    static void iterator4() {
+        int sum;
+        int cnt = 0;
+        for (int i = 1; i < 1000; i++) {
+            sum = i % 7;
+            if (sum == 0 ){
+                System.out.printf("%6d", i);
+                cnt++;
+            }
+            else if (cnt == 10) {
+                System.out.println();
+                cnt = 0;
+            }
+        }
+    }
+
 
     static void arrayEx() {
         int[] score = new int[3];
