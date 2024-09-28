@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.28">
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/A_member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Aa_memberInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +50,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Study-java/k-digital-240910&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
-    &quot;애플리케이션.AlarmEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraySort.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.BasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CommandInput.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ConstEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DoubleArrEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.FildAndMethodEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InheristanceTVMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InheritanceBasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IpadMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MemberInfoEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MethodOverloadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectTypeEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverloadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverrideEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ParamPolyEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.PlacticeNote.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ReferenceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VariableEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.WhileEx1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.alsonoteasy.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.memory.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Study-java/k-digital-240910",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "애플리케이션.Aa_memberInfo.executor": "Run",
+    "애플리케이션.AlarmEx.executor": "Run",
+    "애플리케이션.ArrayEx.executor": "Run",
+    "애플리케이션.ArraySort.executor": "Run",
+    "애플리케이션.BasicEx.executor": "Run",
+    "애플리케이션.CommandInput.executor": "Run",
+    "애플리케이션.ConstEx.executor": "Run",
+    "애플리케이션.DoubleArrEx.executor": "Run",
+    "애플리케이션.FildAndMethodEx2.executor": "Run",
+    "애플리케이션.InheristanceTVMain.executor": "Run",
+    "애플리케이션.InheritanceBasicEx.executor": "Run",
+    "애플리케이션.IpadMain.executor": "Run",
+    "애플리케이션.IteratorEx.executor": "Run",
+    "애플리케이션.IteratorEx2.executor": "Run",
+    "애플리케이션.MemberInfoEx.executor": "Run",
+    "애플리케이션.MethodOverloadingEx.executor": "Run",
+    "애플리케이션.MovieMain.executor": "Run",
+    "애플리케이션.ObjectTypeEx.executor": "Run",
+    "애플리케이션.OverloadingEx.executor": "Run",
+    "애플리케이션.OverrideEx.executor": "Run",
+    "애플리케이션.ParamPolyEx.executor": "Run",
+    "애플리케이션.PlacticeNote.executor": "Run",
+    "애플리케이션.ReferenceEx.executor": "Run",
+    "애플리케이션.VariableEx.executor": "Run",
+    "애플리케이션.WhileEx1.executor": "Run",
+    "애플리케이션.alsonoteasy.executor": "Run",
+    "애플리케이션.memory.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -253,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727526505742</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2024.09.28">
+      <option name="closed" value="true" />
+      <created>1727533809639</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1727533809639</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
