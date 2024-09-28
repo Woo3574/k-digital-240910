@@ -13,7 +13,7 @@ public class PlacticeNote {
         averEx(); // Aw평균점수구하기
         averEx2();
         stringEx(); // Ax문자열다루기
-        upperlowch();
+        upperlowch(); //
     }
 
     static void condition() {
