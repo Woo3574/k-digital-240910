@@ -25,6 +25,7 @@ PlacticeNote {
         kmpRx(); // Ay.KMP암호화
         kmpRx2();
         kmpRx3();
+        kmpRx4();
     }
 
     static void condition() {
@@ -450,7 +451,7 @@ PlacticeNote {
 
     static void kmpRx2() { // - 기준으로 분리해서 첫번째 문자만 출력
 //        Scanner sc = new Scanner(System.in);
-//        System.out.print("문자열을 입력 : ");
+//        System.out.print("문자열 입력 : ");
 //        String str = sc.nextLine();
 //        String[] strSplit = str.split("-");
 //        for (String e : strSplit) {
@@ -458,6 +459,29 @@ PlacticeNote {
 //        }
     }
 
-    static void kmpRx3() {}
+    static void kmpRx3() { // tocharArray 메서드를 사용하여 문자열을 문자로 변환한뒤 조건문에 해당하는것을 출력
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("문자열 입력 : ");
+//        String str = sc.next();
+//        char[] ch = str.toCharArray();
+//        for (char e : ch) {
+//            if (e >= 'A' && e <= 'Z') {
+//             System.out.print(e);
+//            }
+//        }
+    }
+
+    static void kmpRx4() { // 0번째 문자와 - 다음 문자를 출력
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("문자열 입력 : ");
+//        String str = sc.next();
+//        System.out.print(str.charAt(0));
+//        for (int i = 0; i < str.length(); i++) {
+//            if (str.charAt(i) == '-') {
+//                System.out.print(str.charAt(i+1));
+//            }
+//        }
+
+    }
 
 }
