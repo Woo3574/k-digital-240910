@@ -4,45 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.26">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aa/기본연습/BasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aa/기본연습/BasicEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ab/변수연습/VariableEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ab/변수연습/VariableEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ac/상수와리터럴/ConstEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ac/상수와리터럴/ConstEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ad/시스템입출력/SystemInOutEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ad/시스템입출력/SystemInOutEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ae/스캐너클래스/ScannerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ae/스캐너클래스/ScannerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Af/입력받기연습/ScannerInputEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Af/입력받기연습/ScannerInputEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ag/연산자연습/OperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ag/연산자연습/OperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ah/비트연산자/BitOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ah/비트연산자/BitOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ai/조건문/ConditionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ai/조건문/ConditionEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aj/스위치문/SwitchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aj/스위치문/SwitchEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aj/스위치문/memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aj/스위치문/memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ak/등급출력하기/GradeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ak/등급출력하기/GradeEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Al/스위치문계산기/SwitchEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Al/스위치문계산기/SwitchEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx999.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx999.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/An/반복문/IteratorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/An/반복문/IteratorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ao/while반복문/WhileEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ao/while반복문/WhileEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx999.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx999.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aq/참조타입/ReferenceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aq/참조타입/ReferenceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ar/배열/ArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ar/배열/ArrayEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/As/커맨드입력/CommandInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As/커맨드입력/CommandInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/At/배열정렬/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/At/배열정렬/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Au/이차원배열/DoubleArrEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Au/이차원배열/DoubleArrEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Av/얕은복사깊은복사/CopyTypeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Av/얕은복사깊은복사/CopyTypeEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ax/문자열다루기/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ax/문자열다루기/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ay/KMP암호화/KmpRx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ay/KMP암호화/KmpRx.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Woo3574/k-digital-240910.git&quot;,
-    &quot;accountId&quot;: &quot;a594cc16-9df6-44c3-970f-40f3cfa83422&quot;
+    &quot;accountId&quot;: &quot;6ce6fe45-b811-4a37-8720-c64a0dd0fe3a&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -81,16 +52,21 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Study-java/k-digital-240910",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "애플리케이션.AlarmEx.executor": "Run",
-    "애플리케이션.AverEx1.executor": "Run",
-    "애플리케이션.AverEx2.executor": "Run",
     "애플리케이션.BasicEx.executor": "Run",
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.FildAndMethodEx2.executor": "Run",
+    "애플리케이션.InheristanceTVMain.executor": "Run",
+    "애플리케이션.InheritanceBasicEx.executor": "Run",
+    "애플리케이션.IpadMain.executor": "Run",
     "애플리케이션.MemberInfoEx.executor": "Run",
+    "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
+    "애플리케이션.ObjectTypeEx.executor": "Run",
     "애플리케이션.OverloadingEx.executor": "Run",
+    "애플리케이션.OverrideEx.executor": "Run",
+    "애플리케이션.ParamPolyEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
@@ -194,7 +170,47 @@
       <option name="project" value="LOCAL" />
       <updated>1727333635180</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2024.09.26">
+      <option name="closed" value="true" />
+      <created>1727339567630</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727339567630</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2024.09.27">
+      <option name="closed" value="true" />
+      <created>1727405077224</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727405077224</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2024.09.27">
+      <option name="closed" value="true" />
+      <created>1727409075577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727409075577</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2024.09.27">
+      <option name="closed" value="true" />
+      <created>1727416358861</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727416358861</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2024.09.27">
+      <option name="closed" value="true" />
+      <created>1727420527632</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727420527632</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +227,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.09.25" />
     <MESSAGE value="2024.09.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.09.26" />
+    <MESSAGE value="2024.09.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.09.27" />
   </component>
 </project>

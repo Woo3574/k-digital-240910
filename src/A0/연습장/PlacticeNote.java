@@ -11,10 +11,11 @@ PlacticeNote {
         arrayEx(); // Ar.배열
         arraySort(); // At.배열정렬
         doubleArrEx(); // Au.이차원배열
-        averEx(); // Aw평균점수구하기
+        averEx(); // Aw.평균점수구하기
         averEx2();
-        stringEx(); // Ax문자열다루기
-        upperlowch(); ////
+        stringEx(); // Ax문.자열다루기
+        stringEx();
+        upperlowch();
     }
 
     static void condition() {
@@ -172,19 +173,19 @@ PlacticeNote {
     }
 
     static void doubleArrEx() {
-//        int[][] arr = new int[3][4]; // 3행4열
-//        int cnt = 1;
-//        for (int i = 0; i < arr.length; i++ ) { // arr 배열 참조변수 길이값은 3
-//            for(int j = 0; j < arr[i].length; j++) { // arr[i] 길이값은 4
-//                arr[i][j] = cnt;
-//                cnt++;
-//            }
-//        }
-//        for(int[] ee : arr) { // ee == 행 요소 arr은 3행4열 전체
-//            for(int e : ee) { // ee[1],[2],[3]행에 대한 길이 한번씩 1행 순회
-//                System.out.print(e + " ");
-//            }
-//            System.out.println();
+        int[][] arr = new int[3][4]; // 3행4열
+        int cnt = 1;
+        for (int i = 0; i < arr.length; i++ ) { // arr 배열 참조변수 길이값은 3
+            for(int j = 0; j < arr[i].length; j++) { // arr[i] 길이값은 4
+                arr[i][j] = cnt;
+                cnt++;
+            }
+        }
+        for(int[] ee : arr) { // ee == 행 요소 arr은 3행4열 전체
+            for(int e : ee) { // ee[1],[2],[3]행에 대한 길이 한번씩 1행 순회
+                System.out.print(e + " ");
+            }
+            System.out.println();
 //            1열 2열 3열 4열
 //            1행 [ ] [ ] [ ] [ ]
 //
@@ -205,7 +206,7 @@ PlacticeNote {
 //                       4 1  1 10
 //                       4 2  1 11
 //                       4 3  1 12
-//        }
+        }
     }
     // 학생수 5명에 대한 성적을 입력 받음
     // 입력 받은 성적 중에서 40점 미만이 있으면 40점으로 올림
@@ -323,4 +324,6 @@ PlacticeNote {
 
         }
     }
+
+
 }
