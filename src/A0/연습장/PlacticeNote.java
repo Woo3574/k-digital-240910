@@ -8,6 +8,8 @@ PlacticeNote {
         condition(); // Ai조건문 연습
         switchEx(); // Ajswitch case문 연습
         gradeEx(); // Ak.등급출력하기
+        swtichEX(); // Al.스위치문계산기
+        alarmEx(); // AM.상근이알람
         arrayEx(); // Ar.배열
         arraySort(); // At.배열정렬
         doubleArrEx(); // Au.이차원배열
@@ -126,6 +128,51 @@ PlacticeNote {
 //        }
     }
 
+    //간단한 계산기 만들기
+    static  void swtichEX() {
+//        Scanner sc = new Scanner(System.in);
+//        int x = sc.nextInt(); // 좌변
+//        char y = sc.next().charAt(0); // 연산자
+//        int z = sc.nextInt(); // 우변
+//
+//        switch (y) {
+//            case '+' : System.out.println(x + z); break;
+//            case '-' : System.out.println(x - z); break;
+//            case '*' : System.out.println(x * z); break;
+//            case '/' : System.out.println(x / z); break;
+//            case '%' : System.out.println(x % z); break;
+//        }
+    }
+
+    // 스캐너 객체 생성
+    // 시간 입력 :
+    // 분 입력 :
+    // 시간과 분을 분으로 환산
+    // 계산된 분이 45 미만이면 하루의 시간을 더해주고
+    // 계산된 시간에서 45를 빼줌
+    // 다시 시간과 분으로 환산해서 결과 출력
+    static void alarmEx() {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("시간 입력 : ");
+//        int hour = sc.nextInt();
+//        System.out.print("분 입력 : ");
+//        int min = sc.nextInt();
+//        int allTime = hour * 60 + min;
+//        if (allTime < 45 ) {
+//            allTime = 1440 + min;
+//        } allTime -= 45;
+//        System.out.printf("예정된 알람시간은 %d시%d분 입니다.", (allTime / 60), (allTime % 60));
+//            hour = (1440 + min - 45) / 60;
+//            min =  (1440 + min - 45) % 60;
+//            System.out.printf("예정된 알람시간은 " + hour + "시" + min +"분 입니다.");
+//        } else if ( allTime >= 45 ) {
+//            hour = (allTime - 45) / 60;
+//            min = (allTime - 45) % 60;
+//            System.out.printf("예정된 알람시간은 " + hour + "시" + min +"분 입니다.");
+//        }
+
+    }
+
     static void arrayEx() {
         int[] score = new int[3];
 
@@ -173,19 +220,19 @@ PlacticeNote {
     }
 
     static void doubleArrEx() {
-        int[][] arr = new int[3][4]; // 3행4열
-        int cnt = 1;
-        for (int i = 0; i < arr.length; i++ ) { // arr 배열 참조변수 길이값은 3
-            for(int j = 0; j < arr[i].length; j++) { // arr[i] 길이값은 4
-                arr[i][j] = cnt;
-                cnt++;
-            }
-        }
-        for(int[] ee : arr) { // ee == 행 요소 arr은 3행4열 전체
-            for(int e : ee) { // ee[1],[2],[3]행에 대한 길이 한번씩 1행 순회
-                System.out.print(e + " ");
-            }
-            System.out.println();
+//        int[][] arr = new int[3][4]; // 3행4열
+//        int cnt = 1;
+//        for (int i = 0; i < arr.length; i++ ) { // arr 배열 참조변수 길이값은 3
+//            for(int j = 0; j < arr[i].length; j++) { // arr[i] 길이값은 4
+//                arr[i][j] = cnt;
+//                cnt++;
+//            }
+//        }
+//        for(int[] ee : arr) { // ee == 행 요소 arr은 3행4열 전체
+//            for(int e : ee) { // ee[1],[2],[3]행에 대한 길이 한번씩 1행 순회
+//                System.out.printf( "%3d ", e);
+//            }
+//            System.out.println();
 //            1열 2열 3열 4열
 //            1행 [ ] [ ] [ ] [ ]
 //
@@ -206,7 +253,7 @@ PlacticeNote {
 //                       4 1  1 10
 //                       4 2  1 11
 //                       4 3  1 12
-        }
+//        }
     }
     // 학생수 5명에 대한 성적을 입력 받음
     // 입력 받은 성적 중에서 40점 미만이 있으면 40점으로 올림
@@ -306,24 +353,20 @@ PlacticeNote {
     // 실습 문제 : 대문자,소문자로 이루어진 문자열을 입력 받아, 대문자는 소문자로, 소문자는 대문자로 반환
     // 'A' = 65 'a' = 97 'Z' = 90 'z'=122
     static void upperlowch() {
-        // 스캐너 객체 생성
-        // 문자열을 입력 받음
-        // 입력 받은 문자열 길이 만큼 반복 순회하면서 인덱스로 문자 추출
-        // 추출된 문자가 소문자이면 문자 'a' ~ 'A'만큼의 값을 빼줌
-        Scanner sc = new Scanner(System.in);
-        System.out.print("대소문자 문자열 입력: ");
-        String str = sc.next();
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
-            if (ch < 'a') {
-                System.out.print((char) (ch + ('a' - 'A')));
-            } else {
-                System.out.print((char) (ch - ('a' - 'A')));
-            }
-
-
-        }
+//        // 스캐너 객체 생성
+//        // 문자열을 입력 받음
+//        // 입력 받은 문자열 길이 만큼 반복 순회하면서 인덱스로 문자 추출
+//        // 추출된 문자가 소문자이면 문자 'a' ~ 'A'만큼의 값을 빼줌
+//        Scanner sc = new Scanner(System.in);
+//        String str = sc.nextLine();
+//        for ( int i = 0; i < str.length(); i++ ) {
+//            char ch = str.charAt(i);
+//            if (ch >= 'a' && ch <= 'z') {
+//                System.out.print((char)(ch + ('A' - 'a')));
+//            } else if (ch >= 'A' && ch <= 'Z') {
+//                System.out.print((char)(ch + ('a' - 'A')));
+//            }
+//        }
     }
-
 
 }
