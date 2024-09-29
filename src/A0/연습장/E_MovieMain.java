@@ -7,8 +7,23 @@ package A0.연습장;
 // 총 판매 금액에 대한 메서드 작성
 
 
+import java.util.Scanner;
+
 public class E_MovieMain {
     public static void main(String[] args) {
+        Ea_MovieTicket movieTicket = new Ea_MovieTicket(12000);
+        Scanner sc = new Scanner(System.in);
+
+        while (true) {
+            System.out.print("[1]예매하기 ");
+            System.out.print("[2]종료하기 ");
+            int num = sc.nextInt();
+            switch (num) {
+                case 1 : movieTicket.buySeat(); break;
+                case 2 : movieTicket.seatCellPrice(); return;
+                default : System.out.println("잘못된 번호를 누르셨습니다.");
+            }
+        }
 
     }
 }
