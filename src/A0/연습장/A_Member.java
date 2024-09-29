@@ -11,7 +11,7 @@ package A0.연습장;
 
 import java.util.Scanner;
 
-public class A_member {
+public class A_Member {
     private String name;
     private int age;
     private char gender;

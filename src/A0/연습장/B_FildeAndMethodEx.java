@@ -1,9 +1,6 @@
 package A0.연습장;
 
-import javax.swing.text.Style;
-import java.sql.SQLSyntaxErrorException;
-
-public class B_fildeAndMethodEx {
+public class B_FildeAndMethodEx {
     public static void main(String[] args) {
         String factory = "현대자동차 울산 공장";
         Car sorento = new Car();
@@ -12,14 +9,14 @@ public class B_fildeAndMethodEx {
         sorento.getInfo();
         santafe.getInfo();
         gv70.getInfo();
-        System.out.println(factory);
+        System.out.println(Car.company);
         System.out.println("총 차량 생산 대수 : " + Car.productNumber);
     }
 }
 
 
 class Car {
-    static int productNumber = 0;
+    public static int productNumber = 0;
     static String company = "현대자동차";
     String modelName;
     int speed;
@@ -37,7 +34,6 @@ class Car {
     }
 
     void getInfo() {
-        System.out.println("제작 회사 : " + company);
         System.out.println("모델명 : " + modelName );
         System.out.println("속력 : " + speed);
         System.out.println("마력 : " + horsePower);

@@ -1,8 +1,8 @@
 package A0.연습장;
 
-public class Aa_memberInfo {
+public class Aa_MemberInfo {
     public static void main(String[] args) {
-        A_member member = new A_member();
+        A_Member member = new A_Member();
 
         member.setName();
         member.setAge();
