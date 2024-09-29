@@ -10,6 +10,11 @@ public class Aa_memberInfo {
         member.setJob();
         member.getInfo();
 
-        System.out.println("회원 이름 : " + member.getName());
+        System.out.println("======== 회원정보 ========");
+        System.out.println("이름 : " + member.getName());
+        System.out.println("나이 : " + member.getAge());
+        System.out.println("성별 : " + member.getGender());
+        System.out.println("직업 : " + member.getJob());
+
     }
 }

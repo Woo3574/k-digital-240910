@@ -12,12 +12,11 @@ package A0.연습장;
 import java.util.Scanner;
 
 public class A_member {
-
     private String name;
     private int age;
-    private int gender;
+    private char gender;
     private int job;
-    private final Scanner sc = new Scanner(System.in);
+    final private Scanner sc = new Scanner(System.in);
 
     public void setName() {
         System.out.print("이름 입력 : ");
@@ -31,22 +30,32 @@ public class A_member {
             System.out.print("나이 입력 : ");
             age = sc.nextInt();
             if (age >= 0 && age < 200) return;
-            else System.out.println("나이를 잘못입력하셨습니다.");
+            else System.out.println("잘못된 나이를 입력을 하셨습니다.");
         }
     }
+
+    public int getAge() { return age;}
 
     public void setGender() {
         while (true) {
-            System.out.print("성별 입력 남성은 M 또는 m , 여성은 F 또는 f : ");
+            System.out.print("(성별 입력) 남성 'M' 또는 'm', 여성 'F' 또는 'f' : ");
             gender = sc.next().charAt(0);
-            if (gender == 'M' || gender == 'm' || gender == 'F' || gender == 'f') return ;
-            else System.out.println("잘 못 입력하셨습니다.");
+            switch (gender) {
+                case 'M' :
+                    case 'm' : case 'F' : case 'f' : return ;
+                    default: System.out.println("성별을 잘못입력하셨습니다");
+            }
         }
     }
 
-    public int getGender() {
-        if (gender == 'M' || gender == 'm') return 1;
+    public int getGenderType() {
+        if(gender == 'M' || gender =='m') return 1;
         else return 2;
+    }
+
+    public String getGender() {
+        if(gender == 'M' || gender =='m') return "남성";
+        else return "여성";
     }
 
     public void setJob() {
@@ -54,18 +63,24 @@ public class A_member {
             System.out.print("직업 입력 [1]학생 [2]회사원 [3]주부 [4]무직 : ");
             job = sc.nextInt();
             if (job > 0 && job < 5) return;
-            else System.out.println("잘 못 입력하셨습니다.");
+            else System.out.println("입력을 잘못하셨습니다.");
         }
+    }
+    public String getJob() {
+        if (job == 1) return "학생";
+        else if (job == 2) return "회사원";
+        else if (job == 3) return "주부";
+        else return  "무직";
     }
 
     public void getInfo() {
-        String[] genderStr = {"","남성","여성"};
-        String[] jobStr = {"","학생","회사원","주부","무직"};
+        String[] genderStr = {"", "남성", "여성"};
+        String[] jobStr = {"", "학생", "회사원", "주부", "무직"};
         System.out.println("이름 : " + name);
         System.out.println("나이 : " + age);
-        System.out.println("성별 : " + genderStr[getGender()]);
+        System.out.println("성별 : " + genderStr[getGenderType()]);
         System.out.println("직업 : " + jobStr[job]);
-
+        System.out.println("======================================");
     }
 
 }
