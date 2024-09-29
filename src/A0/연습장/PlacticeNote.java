@@ -1,5 +1,7 @@
 package A0.연습장;
 
+import Ba.필드와메서드.FildAndMethodEx;
+
 import java.util.Scanner;
 
 public class
@@ -483,5 +485,4 @@ PlacticeNote {
 //        }
 
     }
-
 }
