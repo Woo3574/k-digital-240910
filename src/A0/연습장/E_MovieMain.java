@@ -16,11 +16,13 @@ public class E_MovieMain {
 
         while (true) {
             System.out.print("[1]예매하기 ");
-            System.out.print("[2]종료하기 ");
+            System.out.print("[2]예매취소하기 ");
+            System.out.print("[3]종료하기 ");
             int num = sc.nextInt();
             switch (num) {
                 case 1 : movieTicket.buySeat(); break;
-                case 2 : movieTicket.seatCellPrice(); return;
+                case 2 : movieTicket.cancleSeat(); break;
+                case 3 : movieTicket.seatCellPrice(); return;
                 default : System.out.println("잘못된 번호를 누르셨습니다.");
             }
         }

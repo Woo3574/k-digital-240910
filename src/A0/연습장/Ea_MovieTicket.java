@@ -38,6 +38,20 @@ public class Ea_MovieTicket {
         } else System.out.println("잘못된 좌석을 선택하셨습니다.");
     }
 
+    public void cancleSeat() {
+        printSeat();
+        System.out.print("예매취소할 좌석 선택 : ");
+        int seatPos = sc.nextInt();
+        if (seat[seatPos - 1] == 1) {
+            seat[seatPos - 1] = 0; System.out.println("선택 좌석을 예매 취소했습니다.");
+            printSeat();
+            System.out.println();
+        } else System.out.println("잘못된 좌석을 선택하셨습니다.");
+    }
+
+
+
+
     public void seatCellPrice() {
         int cnt = 0;
         for (int e : seat) {
