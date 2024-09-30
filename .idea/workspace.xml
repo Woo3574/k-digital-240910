@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.09.29">
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/E_MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/E_MovieMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ea_MovieTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ea_MovieTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bn/접근제한자/CapsuleEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bn/접근제한자/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/StaticBankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bp/싱글톤/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bp/싱글톤/SingletonEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bp/싱글톤/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +70,7 @@
     "애플리케이션.B_fildeAndMethodEx.executor": "Run",
     "애플리케이션.BasicEx.executor": "Run",
     "애플리케이션.C_OverLoadingEx.executor": "Run",
+    "애플리케이션.CapsuleEx.executor": "Run",
     "애플리케이션.CommandInput.executor": "Run",
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.D_MovieMain.executor": "Run",
@@ -83,6 +91,8 @@
     "애플리케이션.ParamPolyEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
     "애플리케이션.ReferenceEx.executor": "Run",
+    "애플리케이션.SingletonEx.executor": "Run",
+    "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
