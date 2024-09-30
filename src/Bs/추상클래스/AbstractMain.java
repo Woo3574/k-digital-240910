@@ -7,9 +7,18 @@ package Bs.추상클래스;
 
 public class AbstractMain {
     public static void main(String[] args) {
-        SmartPhone smartPhone = new SmartPhone("iPhone Pro 16");
-        smartPhone.setPower(true);
-        smartPhone.internet();
-        smartPhone.call();
+//        SmartPhone smartPhone = new SmartPhone("iPhone Pro 16");
+//        smartPhone.setPower(true);
+//        smartPhone.internet();
+//        smartPhone.call();
+        Phone phone = new Phone("iPhone") {
+            @Override
+            void call() {
+                System.out.println("1회용 객체 생성");
+
+            }
+        };
+        phone.setPower(true);
+        phone.call();
     }
 }
