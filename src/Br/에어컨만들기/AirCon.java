@@ -4,12 +4,12 @@ import java.util.Calendar;
 import java.util.Scanner;
 
 public class AirCon {
-    private boolean isPower; // 전원ON/OFF
-    private int setTemp; // 설정 온도
-    private int curTemp; // 현재 온도
-    private boolean isCooler; //에어컨 동작
-    private boolean isHeater; // 히터 동작 여부
-    private int windStep; // 바람세기 : 1단, 2단, 3단
+    boolean isPower; // 전원ON/OFF
+    int setTemp; // 설정 온도
+    int curTemp; // 현재 온도
+    boolean isCooler; //에어컨 동작
+    boolean isHeater; // 히터 동작 여부
+    int windStep; // 바람세기 : 1단, 2단, 3단
 
     // 생성자에서 인스턴스의 초기값을 부여, 현재 온도를
     // 현재 온도를 가져 오기 위해서 calendar 클래스를 이용해 현재가 몇월인지를 운영체제로 가져와서
@@ -31,7 +31,7 @@ public class AirCon {
     void airConInfo() {
         String onOffStr = (isPower) ? "ON" : "OFF";
         String heaterStr = (isHeater) ? "ON" : "OFF";
-        String coolerStr = (isHeater) ? "ON" : "OFF";
+        String coolerStr = (isCooler) ? "ON" : "OFF";
         final String[] windStr = {"", "1단계", "2단계", "3단계"};
         System.out.println("========== 에어컨 정보 ==========");
         System.out.println("전원 : " + onOffStr);
@@ -49,7 +49,7 @@ public class AirCon {
         System.out.print("온도를 설정 하세요 : ");
         setTemp = sc.nextInt();
         System.out.println(" 설정 온도는 " + setTemp + "도 입니다.");
-        System.out.print("바람 세기를 설정 하세요.");
+        System.out.print("바람 세기를 설정 하세요 : ");
         windStep = sc.nextInt();
 
         if (curTemp > setTemp) { //현재가 더운 상태, 온도를 내리라는 의미
@@ -113,3 +113,4 @@ public class AirCon {
         this.windStep = windStep;
     }
 }
+
