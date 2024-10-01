@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.01">
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/H_MethodOverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/I_InheritanceBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,8 @@
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.G_IPadProMain.executor": "Run",
     "애플리케이션.G_IPhoneMain.executor": "Run",
+    "애플리케이션.H_MethodOverLoading.executor": "Run",
+    "애플리케이션.I_InheritanceBasic.executor": "Run",
     "애플리케이션.InheristanceTVMain.executor": "Run",
     "애플리케이션.InheritanceBasicEx.executor": "Run",
     "애플리케이션.IpadMain.executor": "Run",
@@ -386,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727752756343</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2024.10.01">
+      <option name="closed" value="true" />
+      <created>1727761309980</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727761309980</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
