@@ -28,7 +28,7 @@ public class IPadPro {
         cnt++;
         productDate += cnt; // 산술연산이 아니고 문자열을 연결 함
     }
-    public  boolean continueOder() {
+    public boolean continueOder() {
         System.out.println("===== iPad Pro 구입하기 =====");
         System.out.println("구입을 진행하려면 yes / 종료는 no : ");
         String isContinue = sc.next();

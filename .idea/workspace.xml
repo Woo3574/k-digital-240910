@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.01">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Fa_ThisAndThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727708991914</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="2024.10.01">
+      <option name="closed" value="true" />
+      <created>1727752756343</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1727752756343</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

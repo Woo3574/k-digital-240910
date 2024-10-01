@@ -10,13 +10,19 @@ package A0.연습장;
 // 제품 출고 (화면, 색상, 용량, 네트워크, 이름, 일련번호)
 
 public class G_IPadProMain {
-    public static void main(String[] args) {
-        Ga_IPadPro iphone = new Ga_IPadPro("IPHONE");
-        iphone.setScreen();
-        iphone.setColor();
-        iphone.setDataSize();
-        iphone.setWiFi();
-        iphone.setName();
-        iphone.getIphoneInfo();
+    public static void main(String[] args) throws InterruptedException {
+        while (true) {
+            Ga_IPadPro iPadPro = new Ga_IPadPro("iPadPro");
+            if (!iPadPro.continueOder()) break;
+            iPadPro.setScreen();
+            iPadPro.setColor();
+            iPadPro.setDataSize();
+            iPadPro.setWiFi();
+            iPadPro.setName();
+            iPadPro.setSerialnumber();
+            iPadPro.progressIPadPro();
+            iPadPro.getIphoneInfo();
+        }
+
     }
 }
