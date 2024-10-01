@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.01">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/H_MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/I_InheritanceBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/J_OverRidingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/K_HccInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bh/상속과오버라이딩/OverrideEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bh/상속과오버라이딩/OverrideEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +85,9 @@
     "애플리케이션.IpadMain.executor": "Run",
     "애플리케이션.IteratorEx.executor": "Run",
     "애플리케이션.IteratorEx2.executor": "Run",
+    "애플리케이션.J_OverRidingEx.executor": "Run",
+    "애플리케이션.K_HccInheritance.executor": "Run",
+    "애플리케이션.L_PersonClassMake.executor": "Run",
     "애플리케이션.MemberInfoEx.executor": "Run",
     "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
@@ -395,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727761309980</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="2024.10.01">
+      <option name="closed" value="true" />
+      <created>1727765525626</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727765525626</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,7 +4,11 @@ package Bh.상속과오버라이딩;
 
 public class OverrideEx {
     public static void main(String[] args) {
-
+        SportCar sportCar = new SportCar("Ferrari");
+        sportCar.setTurbo(true);
+        sportCar.infoCar();
+        sportCar.accelerator();
+        sportCar.breakPanel();
     }
 }
 
@@ -15,8 +19,8 @@ class Car {
     final void accelerator(){
         System.out.println("차의 속도가 증가합니다.");
     }
-    void breakPanle() {
-        System.out.println("차의 속도가 감소 합니다.?");
+    void breakPanel() {
+        System.out.println("차의 속도가 감소 합니다.");
     }
 }
 
