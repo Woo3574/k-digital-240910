@@ -1,7 +1,5 @@
 package A0.연습장;
 
-import java.util.Scanner;
-
 public class L_PersonClassMake {
     public static void main(String[] args) {
         KStudent kStudent = new KStudent();

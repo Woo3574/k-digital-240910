@@ -12,6 +12,7 @@ public class Common {
     // Bi.상속TV
     public final static int MIN_VOLUME = 0;
     public final static int MAX_VOLUME = 100;
+    public final static int PROTOTYPE_CHANNEL_MIN = 0;
     public final static int PROTOTYPE_CHANNEL_MAX = 1000;
     public final static int PRODUCT_CHANNEL_MAX = 2000;
 }
