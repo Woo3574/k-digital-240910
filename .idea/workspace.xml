@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.01">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/M_InheristanceTVMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Ma_ProtoTypeTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Mb_ProdoutcTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/N_ObjectType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/O/_ParamPoly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A1/Common/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Common/Common.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +90,7 @@
     "애플리케이션.MemberInfoEx.executor": "Run",
     "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
+    "애플리케이션.N_ObjectType.executor": "Run",
     "애플리케이션.NumberEx.executor": "Run",
     "애플리케이션.ObjectTypeEx.executor": "Run",
     "애플리케이션.OverloadingEx.executor": "Run",
@@ -104,6 +102,7 @@
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
+    "애플리케이션._ParamPoly.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
     "애플리케이션.memory.executor": "Run"
   }
@@ -418,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727770310370</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2024.10.01">
+      <option name="closed" value="true" />
+      <created>1727772612365</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727772612365</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
