@@ -1,9 +1,6 @@
-package A0.연습장.O;
+package A0.연습장;
 
-// 매개변수의 다형성
-// 상속 관계를 이용해 매개변수에 자식 타입의 객체를 대입함
-
-public class _ParamPoly {
+public class O_ParamPoly {
     public static void main(String[] args) {
         Buyer buyer = new Buyer();
         buyer.buy(new PlayStation());

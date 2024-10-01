@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.01">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/N_ObjectType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/O/_ParamPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/O_ParamPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/P_PolyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Q_SuperMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/O/_ParamPoly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bl/다형성Driver/PolyDriverEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bl/다형성Driver/PolyDriverEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,11 +98,14 @@
     "애플리케이션.ObjectTypeEx.executor": "Run",
     "애플리케이션.OverloadingEx.executor": "Run",
     "애플리케이션.OverrideEx.executor": "Run",
+    "애플리케이션.P_PolyDriver.executor": "Run",
     "애플리케이션.ParamPolyEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
+    "애플리케이션.Q_SuperMain.executor": "Run",
     "애플리케이션.ReferenceEx.executor": "Run",
     "애플리케이션.SingletonEx.executor": "Run",
     "애플리케이션.StaticBankMain.executor": "Run",
+    "애플리케이션.SuperMain.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
     "애플리케이션._ParamPoly.executor": "Run",
@@ -110,6 +116,9 @@
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Br.에어컨만들기" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="A0.연습장" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -425,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727772612365</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2024.10.01">
+      <option name="closed" value="true" />
+      <created>1727774471906</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1727774471906</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

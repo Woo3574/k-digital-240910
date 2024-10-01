@@ -6,7 +6,7 @@ public class PolyDriverEx {
     public static void main(String[] args) {
         Driver driver = new Driver("곰돌이사육사");
         Scanner sc = new Scanner(System.in);
-        System.out.println("운전하고 싶은 차를 선택 [1]스포츠카 [2]버스 [3]택시 : ");
+        System.out.print("운전하고 싶은 차를 선택 [1]스포츠카 [2]버스 [3]택시 : ");
         int select = sc.nextInt();
         switch (select) {
             case 1: driver.drive(new SportsCar()); break;
