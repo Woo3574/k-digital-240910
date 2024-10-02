@@ -3,36 +3,55 @@ package Za.MakeACar;
 import java.util.Scanner;
 
 public class MakeACarMain {
-
-
     public static void main(String[] args) {
-        int totalPrice; // 총 비용
-        int totalOillCnt; // 총 주유 횟수
-        int totalDistanceTime;
-
-        String[] area = {"", "부산", "대전", "강릉", "광주"};
-        int nop;// 승객 수
-        String[] carType = {"", "스포츠카", "승용차", "버스"};
+        //int totalPrice; // 총 비용
+        //int totalOillCnt; // 총 주유 횟수
+        //int totalDistanceTime;
         Scanner sc = new Scanner(System.in);
-        while (true) {
-            System.out.print("이동 지역 선택 [1]부산 [2]대전 [3]강릉 [4]광주 : ");
-            int aCnt = sc.nextInt();
-            //(area[cnt]);
-            System.out.print("이동할 승객 수 입력 :");
-            nop = sc.nextInt();
-            System.out.println("이동할 차량 선택 : ");
-            int cCnt = sc.nextInt();
-            if (cCnt == 1) {
+        BmwXSportsCar bmwXSportsCar = new BmwXSportsCar("X1");
+        BmwXPassengerCar bmwXPassengerCar = new BmwXPassengerCar("X2");
+        BmwXBus bmwXBus = new BmwXBus("X3");
 
+        System.out.print("이동 지역 선택 [1]부산 [2]대전 [3]강릉 [4]광주 : ");
+        int area = sc.nextInt();
+        System.out.print("이동할 승객 수 입력 : ");
+        int nop = sc.nextInt();
+        System.out.print("이동할 차량 선택 : ");
+        int carType = sc.nextInt();
 
-            }
+        switch (carType) {
+            case 1: {break;}
+            case 2: {break;}
+            case 3: {break;}
+        }
 
+        String[] areaStr = {"", "부산", "대전", "강릉", "광주"};
+        String[] carTypeStr = {"", "스포츠카", "승용차", "버스"};
+        if (carType == 1) {
+            System.out.println();
+            System.out.println();
+            System.out.println();
+            System.out.println();
+        }
+        if (carType == 2) {
+            System.out.println();
+            System.out.println();
+            System.out.println();
+            System.out.println();
+        }
+        if (carType == 3) {
+            System.out.println();
+            System.out.println();
+            System.out.println();
+            System.out.println();
 
+        } else {
+            System.out.println("잘못 입력하셨습니다.");
         }
 
     }
-
 }
+
 class BmwCar {
     String carName; // 차량 명
     int fuelEconomy; // 차량 연비
@@ -52,7 +71,7 @@ class BmwCar {
     }
 }
 
-class BmwSportsCar extends BmwCar {
+class  BmwSportsCar extends BmwCar {
     boolean booster;
     public BmwSportsCar(String carName) {
         super(carName);
