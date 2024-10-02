@@ -3,48 +3,36 @@ package Za.MakeACar;
 import java.util.Scanner;
 
 public class MakeACarMain {
+
+
     public static void main(String[] args) {
+        int totalPrice; // 총 비용
+        int totalOillCnt; // 총 주유 횟수
+        int totalDistanceTime;
+
         String[] area = {"", "부산", "대전", "강릉", "광주"};
-        int nop; // 승객 수
+        int nop;// 승객 수
+        String[] carType = {"", "스포츠카", "승용차", "버스"};
         Scanner sc = new Scanner(System.in);
-        sc.nextInt();
-        sc.nextInt();
-        sc.nextInt();
-        sc.nextInt();
+        while (true) {
+            System.out.print("이동 지역 선택 [1]부산 [2]대전 [3]강릉 [4]광주 : ");
+            int aCnt = sc.nextInt();
+            //(area[cnt]);
+            System.out.print("이동할 승객 수 입력 :");
+            nop = sc.nextInt();
+            System.out.println("이동할 차량 선택 : ");
+            int cCnt = sc.nextInt();
+            if (cCnt == 1) {
 
 
+            }
 
 
-        System.out.println();
+        }
 
-//        가야하는 길이 400km
-//        1l = 8km  = 50l
-//
-//        시속250km
-//        스포츠카 공식 구하기
-//        부산 연료 12명  =  (( n명 / 2 * 400) / 8) = 250l
-//        12명 =6*400 = 2400km / 8km  = 300l*2000 60만원
-//
-//
-//        부산 주유 횟수  = (n명 /2 * 400km) / 240km} = 10번
-//            (12명 6 =2400km)
-//
-//    부산 시간 = (n명 / 2 * 400km )  /  250  = 9.6 = 9시간 36분
-//             12명  6 *400 =2400
-//
-//
-
-
-
-
-
-
-
+    }
 
 }
-}
-
-
 class BmwCar {
     String carName; // 차량 명
     int fuelEconomy; // 차량 연비
