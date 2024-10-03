@@ -24,14 +24,14 @@ public class BmwXPassengerCar extends BmwXCar{
     @Override
     double totalOilCnt(int nop, int area, int add_Ons) {
         if (ADD_ONS[add_Ons] == 1) {
-            double cnt = Math.ceil((double) nop / (double) (seatNumber + 1));
+            double cnt = Math.ceil((double) nop / (seatNumber + 1));
             if (nop < seatNumber + 1) cnt = 1;
-            double to = cnt * (double) DESTINATION_LIST[area] / (double) (fuelEconomy * fuelTankSize);
+            double to = cnt * DESTINATION_LIST[area] / (fuelEconomy * fuelTankSize);
             return Math.ceil(to);
         } else {
-            double cnt = Math.ceil((double) nop / (double) seatNumber);
+            double cnt = Math.ceil((double) nop / seatNumber);
             if (nop < seatNumber) cnt = 1;
-            double to = cnt * (double) DESTINATION_LIST[area] / (double) (fuelEconomy * fuelTankSize);
+            double to = cnt * DESTINATION_LIST[area] / (fuelEconomy * fuelTankSize);
             return Math.ceil(to);
         }
     }
