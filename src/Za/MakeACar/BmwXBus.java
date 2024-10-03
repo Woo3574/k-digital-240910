@@ -11,39 +11,32 @@ public class BmwXBus extends BmwXCar{
     }
 
     @Override
-    double totalPrice(int nop, int area) {
+    double totalPrice(int nop, int area, int add_Ons) {
         double tp = 0;
         double cnt = Math.ceil((double) nop / seatNumer);
         if (nop < seatNumer) cnt = 1;
         tp = cnt * DESTINATION_LIST[area] / fuelEconomy * oneLOil;
-        return Math.ceil(tp);
+        return Math.floor(tp);
     }
 
     @Override
-    double totalOilCnt(int nop, int area) {
+    double totalOilCnt(int nop, int area, int add_Ons) {
         double to = 0;
         double cnt = Math.ceil((double) nop / seatNumer);
         if (nop < seatNumer) cnt = 1;
-        to = cnt * DESTINATION_LIST[area] / (fuelEconomy * fuelTankSize);
+        if (ADD_ONS[add_Ons] == 1) {
+            to = cnt * DESTINATION_LIST[area] / (fuelEconomy * (fuelTankSize + 30));
+        } else to = cnt * DESTINATION_LIST[area] / (fuelEconomy * fuelTankSize);
         return Math.ceil(to);
     }
 
     @Override
-    double totalDistanceTime(int nop, int area, int weather) {
+    double totalDistanceTime(int nop, int area, int weather, int add_Ons) {
         double tdt = 0;
         double cnt = Math.ceil((double) nop / seatNumer);
         if (nop < seatNumer) cnt = 1;
         tdt = cnt * DESTINATION_LIST[area] / speed;
         if(weather == 2 || weather == 3) tdt *= WEATHER[weather];
         return tdt*60 ;
-    }
-
-    @Override
-    double additionalFunction(int nop, int area, int weather) {
-        double to = 0;
-        double cnt = Math.ceil((double) nop / seatNumer);
-        if (nop < seatNumer) cnt = 1;
-        to = cnt * DESTINATION_LIST[area] / (fuelEconomy * (fuelTankSize + 30));
-        return Math.ceil(to);
     }
 }

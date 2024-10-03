@@ -11,16 +11,18 @@ public class BmwXPassengerCar extends BmwXCar{
     }
 
     @Override
-    double totalPrice(int nop, int area) {
+    double totalPrice(int nop, int area, int add_Ons) {
+        if(ADD_ONS[add_Ons] == 1) seatNumer += 1;
         double tp = 0;
         double cnt = Math.ceil((double) nop / seatNumer);
         if (nop < seatNumer) cnt = 1;
         tp = cnt * DESTINATION_LIST[area] / fuelEconomy * oneLOil;
-        return Math.ceil(tp);
+        return Math.floor(tp);
     }
 
     @Override
-    double totalOilCnt(int nop, int area) {
+    double totalOilCnt(int nop, int area, int add_Ons) {
+        if(ADD_ONS[add_Ons] == 1) seatNumer+= 1;
         double to = 0;
         double cnt = Math.ceil((double) nop / seatNumer);
         if (nop < seatNumer) cnt = 1;
@@ -29,19 +31,13 @@ public class BmwXPassengerCar extends BmwXCar{
     }
 
     @Override
-    double totalDistanceTime(int nop, int area, int weather) {
+    double totalDistanceTime(int nop, int area, int weather, int add_Ons) {
+        if (ADD_ONS[add_Ons] == 1) seatNumer += 1;
         double tdt = 0;
         double cnt = Math.ceil((double) nop / seatNumer);
         if (nop < seatNumer) cnt = 1;
         tdt = cnt * DESTINATION_LIST[area] / speed;
-        if(weather == 2 || weather == 3) tdt *= WEATHER[weather];
-        return tdt*60 ;
+        if (weather == 2 || weather == 3) tdt *= WEATHER[weather];
+        return tdt * 60;
     }
-
-    @Override
-    double additionalFunction(int nop, int area, int weather) {
-        return 0;
-    }
-
-
 }
