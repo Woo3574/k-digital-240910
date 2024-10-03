@@ -25,64 +25,33 @@ public class MakeACarMain {
             int weather = sc.nextInt();
             System.out.println();
 
-            if (area >= 1 && area <= 4 && nop > 0 && nop < 100 && carType >= 1 && carType <= 3 && add_Ons >= 1 && add_Ons  <= 2 && weather >= 1 && weather <= 3) {
+            if (area >= 1 && area <= 4 && nop > 0 && nop < 100 && carType >= 1 && carType <= 3 && add_Ons >= 1 && add_Ons <= 2 && weather >= 1 && weather <= 3) {
                 if (carType == 1) {
-                    switch (add_Ons) {
-                        case 1: {
-                            System.out.println("========== " + bmwXSportsCar.name + " ==========");
-                            System.out.println("총 비용 : " + (long) bmwXSportsCar.totalPrice(nop, area, add_Ons) + "원");
-                            System.out.println("총 주유 횟수 : " + (long) bmwXSportsCar.totalOilCnt(nop, area, add_Ons) + "회");
-                            System.out.println("총 이동 시간 : " + (long) (bmwXSportsCar.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXSportsCar.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
-                        }
-                        case 2: {
-                            System.out.println("========== " + bmwXSportsCar.name + " ==========");
-                            System.out.println("총 비용 : " + (long) bmwXSportsCar.totalPrice(nop, area, add_Ons) + "원");
-                            System.out.println("총 주유 횟수 : " + (long) bmwXSportsCar.totalOilCnt(nop, area, add_Ons) + "회");
-                            System.out.println("총 이동 시간 : " + (long) (bmwXSportsCar.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXSportsCar.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
-                        }
-                    }
+                    System.out.println("========== " + bmwXSportsCar.name + " ==========");
+                    System.out.println("총 비용 : " + (long) bmwXSportsCar.totalPrice(nop, area, add_Ons) + "원");
+                    System.out.println("총 주유 횟수 : " + (long) bmwXSportsCar.totalOilCnt(nop, area, add_Ons) + "회");
+                    System.out.println("총 이동 시간 : " + (long) (bmwXSportsCar.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXSportsCar.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
                 }
                 if (carType == 2) {
-                    switch (add_Ons) {
-                        case 1: {
-                            System.out.println("========== " + bmwXPassengerCar.name + " ==========");
-                            System.out.println("총 비용 : " + (long) bmwXPassengerCar.totalPrice(nop, area, add_Ons) + "원");
-                            System.out.println("총 주유 횟수 : " + (long) bmwXPassengerCar.totalOilCnt(nop, area, add_Ons) + "회");
-                            System.out.println("총 이동 시간 : " + (long) (bmwXPassengerCar.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXPassengerCar.totalDistanceTime(nop, area, weather,add_Ons) % 60) + "분");
-                        }
-                        case 2 : {
-                            System.out.println("========== " + bmwXPassengerCar.name + " ==========");
-                            System.out.println("총 비용 : " + (long) bmwXPassengerCar.totalPrice(nop, area, add_Ons) + "원");
-                            System.out.println("총 주유 횟수 : " + (long) bmwXPassengerCar.totalOilCnt(nop, area, add_Ons) + "회");
-                            System.out.println("총 이동 시간 : " + (long) (bmwXPassengerCar.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXPassengerCar.totalDistanceTime(nop, area, weather,add_Ons) % 60) + "분");
-                        }
-                    }
+                    System.out.println("========== " + bmwXPassengerCar.name + " ==========");
+                    System.out.println("총 비용 : " + (long) bmwXPassengerCar.totalPrice(nop, area, add_Ons) + "원");
+                    System.out.println("총 주유 횟수 : " + (long) bmwXPassengerCar.totalOilCnt(nop, area, add_Ons) + "회");
+                    System.out.println("총 이동 시간 : " + (long) (bmwXPassengerCar.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXPassengerCar.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
                 }
                 if (carType == 3) {
-                    switch (add_Ons) {
-                        case 1 : {
-                            System.out.println("========== " + bmwXBus.name + " ==========");
-                            System.out.println("총 비용 : " + (long) bmwXBus.totalPrice(nop, area, add_Ons) + "원");
-                            System.out.println("총 주유 횟수 : " + (long) bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) + "회");
-                            System.out.println("총 이동 시간 : " + (long) (bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long)(bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
-                        }
-                        case 2 : {
-                            System.out.println("========== " + bmwXBus.name + " ==========");
-                            System.out.println("총 비용 : " + (long) bmwXBus.totalPrice(nop, area, add_Ons) + "원");
-                            System.out.println("총 주유 횟수 : " + (long) bmwXBus.totalOilCnt(nop, area, add_Ons) + "회");
-                            System.out.println("총 이동 시간 : " + (long) (bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long)(bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
-                        }
-                    }
-                }
+                    System.out.println("========== " + bmwXBus.name + " ==========");
+                    System.out.println("총 비용 : " + (long) bmwXBus.totalPrice(nop, area, add_Ons) + "원");
+                    System.out.println("총 주유 횟수 : " + (long) bmwXBus.totalOilCnt(nop, area, add_Ons) + "회");
+                    System.out.println("총 이동 시간 : " + (long) (bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) / 60) + "시간" + (long) (bmwXBus.totalDistanceTime(nop, area, weather, add_Ons) % 60) + "분");
+                }break;
+            } else {
+                if (area < 1 || area > 4) System.out.println("이동 지역을 잘못입력하셨습니다.");
+                else if (nop < 0 || nop > 100) System.out.println("이동 승객 수를 잘못입력하셨습니다.");
+                else if (carType < 1 || carType > 3) System.out.println("이동 차량 선택을 잘못입력하셨습니다.");
+                else if (add_Ons < 1 || add_Ons > 2) System.out.println("부가 기능 선택을 잘못입력하셨습니다.");
+                else if (weather < 1 || weather > 3) System.out.println("날씨 선택을 잘못입력하셨습니다.");
             }
-            else {
-                if(area < 1 || area > 4) System.out.println("이동 지역을 잘못입력하셨습니다.");
-                else if(nop < 0 || nop > 100) System.out.println("이동 승객 수를 잘못입력하셨습니다.");
-                else if(carType < 1 || carType > 3) System.out.println("이동 차량 선택을 잘못입력하셨습니다.");
-                else if(add_Ons < 1 || add_Ons > 2) System.out.println("부가 기능 선택을 잘못입력하셨습니다.");
-                else if(weather < 1 || weather > 3) System.out.println("날씨 선택을 잘못입력하셨습니다.");
-            } System.out.println("========================================================");
-            break;
+            System.out.println("=========================");
         } while (true);
     }
 }

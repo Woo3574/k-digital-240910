@@ -9,7 +9,7 @@ package Za.MakeACar;
 // int fuelEconomy; // 차량 연비
 // int speed; // 차량 속도
 // int fuelTankSize; // 차량 연료 탱크 크기
-// int seatNumer; // 차량 좌석수
+// int seatNumber; // 차량 좌석수
 
 public abstract class BmwXCar {
     String name;
