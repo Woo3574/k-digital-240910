@@ -39,7 +39,7 @@ public class BmwXPassengerCar extends BmwXCar{
     }
 
     @Override
-    double additionalFunction() {
+    double additionalFunction(int nop, int area, int weather) {
         return 0;
     }
 

@@ -39,7 +39,11 @@ public class BmwXBus extends BmwXCar{
     }
 
     @Override
-    double additionalFunction() {
-        return 0;
+    double additionalFunction(int nop, int area, int weather) {
+        double to = 0;
+        double cnt = Math.ceil((double) nop / seatNumer);
+        if (nop < seatNumer) cnt = 1;
+        to = cnt * DESTINATION_LIST[area] / (fuelEconomy * (fuelTankSize + 30));
+        return Math.ceil(to);
     }
 }

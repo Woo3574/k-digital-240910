@@ -22,7 +22,7 @@ public abstract class BmwXCar {
     }
     abstract double totalPrice(int nop, int area);  // 총 비용
     abstract double totalOilCnt(int nop, int area); // 총 주유 횟수
-    abstract double totalDistanceTime(int nop, int area, int waether); // 총 이동 시간
-    abstract double additionalFunction();
+    abstract double totalDistanceTime(int nop, int area, int weather); // 총 이동 시간
+    abstract double additionalFunction(int nop, int area, int weather);
 
 }

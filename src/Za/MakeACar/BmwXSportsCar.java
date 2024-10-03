@@ -39,8 +39,12 @@ public class BmwXSportsCar extends BmwXCar {
     }
 
     @Override
-    double additionalFunction() {
-        return 0;
+    double additionalFunction(int nop, int area, int weather) {
+            double tdt = 0;
+            double cnt = Math.ceil((double) nop / seatNumer);
+            if (nop < seatNumer) cnt = 1;
+            tdt = cnt * DESTINATION_LIST[area] / (speed*1.2);
+            if (weather == 2 || weather == 3) tdt *= WEATHER[weather];
+            return tdt * 60 ;
     }
-
 }
