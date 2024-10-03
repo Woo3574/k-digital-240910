@@ -1,12 +1,12 @@
 package Za.MakeACar;
 
-public class BmwXSportsCar extends BmwXCar {
-    int fuelEconomy = 8;
-    int speed = 250;
-    int fuelTankSize = 30;
-    int seatNumer = 2;
+public class BmwXBus extends BmwXCar{
+    int fuelEconomy = 5;
+    double speed = 150;
+    int fuelTankSize = 100;
+    int seatNumer = 20;
 
-    public BmwXSportsCar(String name) {
+    public BmwXBus(String name) {
         super(name);
     }
 
@@ -42,5 +42,4 @@ public class BmwXSportsCar extends BmwXCar {
     double additionalFunction() {
         return 0;
     }
-
 }

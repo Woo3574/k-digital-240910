@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.02">
-      <change afterPath="$PROJECT_DIR$/src/Za/MakeACar/BmwXSportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zb/자동차만들기/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zc/HCar/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zc/HCar/HCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zc/HCar/HSonata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/24__9__25___9_51__________.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/24__9__25__오후_9_51,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Fa_ThisAndThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Fa_ThisAndThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/H_MethodOverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/H_MethodOverLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/I_InheritanceBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/I_InheritanceBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/J_OverRidingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/J_OverRidingEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/K_HccInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/K_HccInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/M_InheristanceTVMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/M_InheristanceTVMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ma_ProtoTypeTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ma_ProtoTypeTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Mb_ProdoutcTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Mb_ProdoutcTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/N_ObjectType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/N_ObjectType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/O_ParamPoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/O_ParamPoly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/P_PolyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/P_PolyDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Q_SuperMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Q_SuperMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bs/추상클래스/AbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bs/추상클래스/AbstractMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXSportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Za/MakeACar/BmwXSportsCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/MakeACarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Za/MakeACar/MakeACarMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -500,7 +478,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727837124645</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2024.10.03">
+      <option name="closed" value="true" />
+      <created>1727952472675</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1727952472675</updated>
+    </task>
+    <task id="LOCAL-00045" summary="2024.10.03">
+      <option name="closed" value="true" />
+      <created>1727952687978</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1727952687978</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,6 +517,7 @@
     <MESSAGE value="2024.10.01" />
     <MESSAGE value="2024.09.30" />
     <MESSAGE value="2024.10.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.02" />
+    <MESSAGE value="2024.10.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.03" />
   </component>
 </project>
