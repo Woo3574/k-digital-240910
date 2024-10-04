@@ -31,7 +31,17 @@ public class DownCastingEx {
                 Human h = (Human) ani; //다운 캐스팅은 명시적 형변환 필요
                 h.readBook();
             }
+            else if (ani instanceof Tiger) {
+            Tiger t = (Tiger) ani;
+            t.hunting();
+             }
+            else if (ani instanceof Eagle) {
+                Eagle e = (Eagle) ani;
+                e.flying();
+            } else {
+            System.out.println("지원되지 않는 형입니다.");
         }
 
     }
+}
 }
