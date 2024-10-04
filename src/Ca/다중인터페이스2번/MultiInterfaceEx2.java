@@ -3,7 +3,6 @@ package Ca.다중인터페이스2번;
 public class MultiInterfaceEx2 {
     public static void main(String[] args) {
         Customer customer = new Customer();
-        Buy buyer = customer; //Customer 클래스 타입의 참조 변수를 Buy 인터페이스형에 대입
 
         customer.sell();
         customer.buy();
