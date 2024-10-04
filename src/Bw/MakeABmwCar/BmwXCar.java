@@ -1,4 +1,4 @@
-package Za.MakeACar;
+package Bw.MakeABmwCar;
 
 // int totalPrice; 총비용
 // int totalDistanceTime; 총이동시간
@@ -14,10 +14,11 @@ package Za.MakeACar;
 public abstract class BmwXCar {
     String name;
                                //부산,대전,강릉,광주
-    int[] DESTINATION_LIST = {0, 400, 150, 200, 300};
-    double[] WEATHER = {0, 0, 1.2, 1.4};
-    int[] ADD_ONS = {0, 1 ,2};
-    int oneLOil = 2000; // 기름 1L 당 금액
+    protected int[] DESTINATION_LIST = {0, 400, 150, 200, 300};
+    protected double[] WEATHER = {0, 0, 1.2, 1.4};
+    protected int[] ADD_ONS = {0, 1 ,2};
+    protected int oneLOil = 2000; // 기름 1L 당 금액
+
     public BmwXCar(String name) {
         this.name = name;
     }

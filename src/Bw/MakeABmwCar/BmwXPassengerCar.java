@@ -1,4 +1,4 @@
-package Za.MakeACar;
+package Bw.MakeABmwCar;
 
 public class BmwXPassengerCar extends BmwXCar{
     int fuelEconomy = 12;
@@ -23,23 +23,20 @@ public class BmwXPassengerCar extends BmwXCar{
 
     @Override
     double totalOilCnt(int nop, int area, int add_Ons) {
-        if (ADD_ONS[add_Ons] == 1) {
-            double cnt = Math.ceil((double) nop / (double) (seatNumber + 1));
+            seatNumber = 4;
+            if (ADD_ONS[add_Ons] == 1) {seatNumber += 1;}
+            double cnt = Math.ceil((double) nop / (double) (seatNumber));
             if (nop < seatNumber + 1) cnt = 1;
             double to = cnt * (double) DESTINATION_LIST[area] / (double) (fuelEconomy * fuelTankSize);
             return Math.ceil(to);
-        } else {
-            double cnt = Math.ceil((double) nop / (double) seatNumber);
-            if (nop < seatNumber) cnt = 1;
-            double to = cnt * (double) DESTINATION_LIST[area] / (double) (fuelEconomy * fuelTankSize);
-            return Math.ceil(to);
-        }
     }
+
 
     @Override
     double totalDistanceTime(int nop, int area, int weather, int add_Ons) {
+        seatNumber = 4;
         double tdt = 0;
-        if (ADD_ONS[add_Ons] == 1) seatNumber += 1;
+        if (ADD_ONS[add_Ons] == 1) {seatNumber += 1;}
         double cnt = Math.ceil((double) nop / seatNumber);
         if (nop < seatNumber) cnt = 1;
         tdt = cnt * DESTINATION_LIST[area] / speed;

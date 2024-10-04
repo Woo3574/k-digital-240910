@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.03">
-      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Za/MakeACar/BmwXBus.java" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Za/MakeACar/BmwXCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXPassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Za/MakeACar/BmwXPassengerCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/MakeACarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Za/MakeACar/MakeACarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/PassengerCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/SportsCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/VehicleMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -546,8 +554,8 @@
     <MESSAGE value="2024.09.29" />
     <MESSAGE value="2024.10.01" />
     <MESSAGE value="2024.09.30" />
-    <MESSAGE value="2024.10.02" />
     <MESSAGE value="2024.10.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.03" />
+    <MESSAGE value="2024.10.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.02" />
   </component>
 </project>
