@@ -2,7 +2,7 @@ package A0.연습장;
 
 import Bv.디폴트메서드.RemoteControl;
 
-public class Ua_Television implements RemoteControl {
+public class Ua_Television implements U_RemoteControl {
     private int volume;
 
     @Override
