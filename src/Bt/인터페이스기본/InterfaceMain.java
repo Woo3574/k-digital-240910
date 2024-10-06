@@ -12,16 +12,14 @@ import java.util.Scanner;
 
 public class InterfaceMain {
     public static void main(String[] args) {
-//        String[] area = {"", "부산", "대전", "강릉", "광주"};
-//        String[] carType = {"", "스포츠카", "승용차", "버스"};
         NetworkAdapter adapter;  // 변수 adapter에 5g 와이파이 lte 등 붙을수있다. // 객체화가 될수없다.
         Scanner sc = new Scanner(System.in);
-        String name = sc.next();
+        String name = sc.nextLine();
         System.out.print("연결할 네트워크 선택 : [1]WiFi [2]5G [3]LTE : ");
         int num = sc.nextInt();
         switch (num) {
             case 1 :
-                adapter = new wiFi(name);
+                adapter = new WiFi(name);
                 adapter.connect();
                 break;
             case 2 :
