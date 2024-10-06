@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.04">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/R_InterfaceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Ra_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/S_InterfaceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Sa_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Ta_CocoaTalkInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bt/인터페이스기본/InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bt/인터페이스기본/InterfaceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bt/인터페이스기본/NetworkAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bt/인터페이스기본/NetworkAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXBus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXPassengerCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/BmwXSportsCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Za/MakeACar/MakeACarMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/Bus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/PassengerCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/SportsCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zb/자동차만들기/VehicleMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zc/HCar/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zc/HCar/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zc/HCar/HCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zc/HCar/HCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zc/HCar/HSonata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zc/HCar/HSonata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +120,7 @@
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.StringBufferEx.executor": "Run",
     "애플리케이션.SuperMain.executor": "Run",
+    "애플리케이션.T_CocoaTalkMain.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.VehicleMain.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
@@ -164,30 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00009" summary="2024.09.26">
-      <option name="closed" value="true" />
-      <created>1727322604179</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1727322604179</updated>
-    </task>
-    <task id="LOCAL-00010" summary="2024.09.26">
-      <option name="closed" value="true" />
-      <created>1727329840747</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1727329840747</updated>
-    </task>
-    <task id="LOCAL-00011" summary="2024.09.26">
-      <option name="closed" value="true" />
-      <created>1727333635180</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1727333635180</updated>
     </task>
     <task id="LOCAL-00012" summary="2024.09.26">
       <option name="closed" value="true" />
@@ -557,7 +514,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728028157382</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="2024.10.0">
+      <option name="closed" value="true" />
+      <created>1728197327374</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1728197327374</updated>
+    </task>
+    <task id="LOCAL-00059" summary="2024.10.06">
+      <option name="closed" value="true" />
+      <created>1728197640328</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1728197640328</updated>
+    </task>
+    <task id="LOCAL-00060" summary="2024.10.06">
+      <option name="closed" value="true" />
+      <created>1728197744997</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1728197744997</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -582,6 +563,8 @@
     <MESSAGE value="2024.10.03" />
     <MESSAGE value="2024.10.02" />
     <MESSAGE value="2024.10.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.04" />
+    <MESSAGE value="2024.10.0" />
+    <MESSAGE value="2024.10.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.06" />
   </component>
 </project>

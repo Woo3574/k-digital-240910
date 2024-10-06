@@ -5,7 +5,7 @@ public interface Ta_CocoaTalkInterface {
     void send(String msg);
 }
 
-class WiFi implements Ta_CocoaTalkInterface {
+class WiFii implements Ta_CocoaTalkInterface {
 
     @Override
     public void connect() {
@@ -17,7 +17,7 @@ class WiFi implements Ta_CocoaTalkInterface {
     }
 }
 
-class Fiveg implements Ta_CocoaTalkInterface {
+class Fivegg implements Ta_CocoaTalkInterface {
 
     @Override
     public void connect() {
@@ -29,7 +29,7 @@ class Fiveg implements Ta_CocoaTalkInterface {
     }
 }
 
-class Lte implements Ta_CocoaTalkInterface {
+class Ltee implements Ta_CocoaTalkInterface {
 
     @Override
     public void connect() {
