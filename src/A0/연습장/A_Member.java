@@ -8,7 +8,6 @@ package A0.연습장;
 // 1 ~ 4 이외의 값은 재 입력 요구
 // 모든 입력이 완료되면 결과는 한번에 출력
 
-
 import java.util.Scanner;
 
 public class A_Member {

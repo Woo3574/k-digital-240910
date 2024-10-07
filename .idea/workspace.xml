@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.06">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Ub_Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Uc_DefaultMethodMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ua_Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ua_Television.java" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.07">
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZA_MathClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/A_Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/A_Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/R_InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/R_InterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ra_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ra_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/S_InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/S_InterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Sa_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Sa_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ta_CocoaTalkInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ta_CocoaTalkInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/U_RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ua_Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ub_Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Uc_DefaultMethodMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +76,8 @@
     "애플리케이션.AnonymousEx.executor": "Run",
     "애플리케이션.ArrayEx.executor": "Run",
     "애플리케이션.ArraySort.executor": "Run",
+    "애플리케이션.ArraysClassEx.executor": "Run",
+    "애플리케이션.ArraysExMain.executor": "Run",
     "애플리케이션.B_fildeAndMethodEx.executor": "Run",
     "애플리케이션.BasicEx.executor": "Run",
     "애플리케이션.C_OverLoadingEx.executor": "Run",
@@ -75,14 +88,19 @@
     "애플리케이션.CommandInput.executor": "Run",
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.D_MovieMain.executor": "Run",
+    "애플리케이션.DateClassMain.executor": "Run",
     "애플리케이션.DefaultMethodMain.executor": "Run",
     "애플리케이션.DoubleArrEx.executor": "Run",
     "애플리케이션.DownCastingEx.executor": "Run",
     "애플리케이션.E_MovieMain.executor": "Run",
+    "애플리케이션.EnumClassEx2.executor": "Run",
+    "애플리케이션.EnumClassMain.executor": "Run",
     "애플리케이션.Fa_ThisAndThis.executor": "Run",
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.G_IPadProMain.executor": "Run",
     "애플리케이션.G_IPhoneMain.executor": "Run",
+    "애플리케이션.GenericBasicMain.executor": "Run",
+    "애플리케이션.GenericMainEx.executor": "Run",
     "애플리케이션.H_MethodOverLoading.executor": "Run",
     "애플리케이션.I_InheritanceBasic.executor": "Run",
     "애플리케이션.InheristanceTVMain.executor": "Run",
@@ -96,6 +114,7 @@
     "애플리케이션.L_PersonClassMake.executor": "Run",
     "애플리케이션.M_InheristanceTVMain.executor": "Run",
     "애플리케이션.MakeACarMain.executor": "Run",
+    "애플리케이션.MathClassEx.executor": "Run",
     "애플리케이션.MemberInfoEx.executor": "Run",
     "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
@@ -119,12 +138,16 @@
     "애플리케이션.SingletonEx.executor": "Run",
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.StringBufferEx.executor": "Run",
+    "애플리케이션.StringTokenEx.executor": "Run",
     "애플리케이션.SuperMain.executor": "Run",
+    "애플리케이션.SystemClassName.executor": "Run",
     "애플리케이션.T_CocoaTalkMain.executor": "Run",
     "애플리케이션.Uc_DefaultMethodMain.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
     "애플리케이션.VehicleMain.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
+    "애플리케이션.WraprClassEx.executor": "Run",
+    "애플리케이션.ZA_MathClass.executor": "Run",
     "애플리케이션._ParamPoly.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
     "애플리케이션.memory.executor": "Run"
@@ -146,62 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2024.09.27">
-      <option name="closed" value="true" />
-      <created>1727409075577</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1727409075577</updated>
-    </task>
-    <task id="LOCAL-00015" summary="2024.09.27">
-      <option name="closed" value="true" />
-      <created>1727416358861</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1727416358861</updated>
-    </task>
-    <task id="LOCAL-00016" summary="2024.09.27">
-      <option name="closed" value="true" />
-      <created>1727420527632</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1727420527632</updated>
-    </task>
-    <task id="LOCAL-00017" summary="2024.09.28">
-      <option name="closed" value="true" />
-      <created>1727504141443</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1727504141444</updated>
-    </task>
-    <task id="LOCAL-00018" summary="2024.09.28">
-      <option name="closed" value="true" />
-      <created>1727509676834</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1727509676834</updated>
-    </task>
-    <task id="LOCAL-00019" summary="2024.09.28">
-      <option name="closed" value="true" />
-      <created>1727515923343</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1727515923343</updated>
-    </task>
-    <task id="LOCAL-00020" summary="2024.09.28">
-      <option name="closed" value="true" />
-      <created>1727526505742</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1727526505742</updated>
     </task>
     <task id="LOCAL-00021" summary="2024.09.28">
       <option name="closed" value="true" />
@@ -539,7 +506,63 @@
       <option name="project" value="LOCAL" />
       <updated>1728224153587</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728262125330</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1728262125330</updated>
+    </task>
+    <task id="LOCAL-00064" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728266001604</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1728266001604</updated>
+    </task>
+    <task id="LOCAL-00065" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728269672415</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1728269672416</updated>
+    </task>
+    <task id="LOCAL-00066" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728272851117</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1728272851117</updated>
+    </task>
+    <task id="LOCAL-00067" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728280558798</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1728280558798</updated>
+    </task>
+    <task id="LOCAL-00068" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728282979214</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1728282979214</updated>
+    </task>
+    <task id="LOCAL-00069" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728290223140</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1728290223140</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -566,6 +589,7 @@
     <MESSAGE value="2024.10.04" />
     <MESSAGE value="2024.10.0" />
     <MESSAGE value="2024.10.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.06" />
+    <MESSAGE value="2024.10.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.07" />
   </component>
 </project>
