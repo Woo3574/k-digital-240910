@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.06">
-      <change afterPath="$PROJECT_DIR$/src/Cg/Math클래스/MathClassEx.java" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.07">
+      <change afterPath="$PROJECT_DIR$/src/Ch/Enum클래스/EnumClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ci/Enum클래스예제2번/EnumClassEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cj/시간과날짜/DateClassMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,10 +76,13 @@
     "애플리케이션.CommandInput.executor": "Run",
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.D_MovieMain.executor": "Run",
+    "애플리케이션.DateClassMain.executor": "Run",
     "애플리케이션.DefaultMethodMain.executor": "Run",
     "애플리케이션.DoubleArrEx.executor": "Run",
     "애플리케이션.DownCastingEx.executor": "Run",
     "애플리케이션.E_MovieMain.executor": "Run",
+    "애플리케이션.EnumClassEx2.executor": "Run",
+    "애플리케이션.EnumClassMain.executor": "Run",
     "애플리케이션.Fa_ThisAndThis.executor": "Run",
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.G_IPadProMain.executor": "Run",
@@ -146,14 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2024.09.27">
-      <option name="closed" value="true" />
-      <created>1727409075577</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1727409075577</updated>
     </task>
     <task id="LOCAL-00015" summary="2024.09.27">
       <option name="closed" value="true" />
@@ -539,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728224153587</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728262125330</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1728262125330</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -566,6 +571,7 @@
     <MESSAGE value="2024.10.04" />
     <MESSAGE value="2024.10.0" />
     <MESSAGE value="2024.10.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.06" />
+    <MESSAGE value="2024.10.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.07" />
   </component>
 </project>
