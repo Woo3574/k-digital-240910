@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.06">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Ub_Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/Uc_DefaultMethodMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ua_Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ua_Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cg/Math클래스/MathClassEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +95,7 @@
     "애플리케이션.L_PersonClassMake.executor": "Run",
     "애플리케이션.M_InheristanceTVMain.executor": "Run",
     "애플리케이션.MakeACarMain.executor": "Run",
+    "애플리케이션.MathClassEx.executor": "Run",
     "애플리케이션.MemberInfoEx.executor": "Run",
     "애플리케이션.MethodOverloadingEx.executor": "Run",
     "애플리케이션.MovieMain.executor": "Run",
