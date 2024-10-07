@@ -2,7 +2,7 @@ package Ck.Wrapper클래스;
 
 // Wrapper 클래스란? 기본 타입의 데이터를 객체 타입으로 취급하도록 변환 해주는 클래스
 
-public class WraprClassEx {
+public class WrapClassEx {
     public static void main(String[] args) {
         // IntegerEx integerEx = new IntegerEx();
         // integerEx.x = 100;
