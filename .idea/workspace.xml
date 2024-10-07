@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.07">
-      <change afterPath="$PROJECT_DIR$/src/Co/String토커나이즈/StringTokenEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cp/제네릭기본/GenericBasicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/GenericMainEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Nylon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Powder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +93,8 @@
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.G_IPadProMain.executor": "Run",
     "애플리케이션.G_IPhoneMain.executor": "Run",
+    "애플리케이션.GenericBasicMain.executor": "Run",
+    "애플리케이션.GenericMainEx.executor": "Run",
     "애플리케이션.H_MethodOverLoading.executor": "Run",
     "애플리케이션.I_InheritanceBasic.executor": "Run",
     "애플리케이션.InheristanceTVMain.executor": "Run",
@@ -154,14 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00019" summary="2024.09.28">
-      <option name="closed" value="true" />
-      <created>1727515923343</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1727515923343</updated>
     </task>
     <task id="LOCAL-00020" summary="2024.09.28">
       <option name="closed" value="true" />
@@ -547,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728280558798</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="2024.10.07">
+      <option name="closed" value="true" />
+      <created>1728282979214</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1728282979214</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
