@@ -50,7 +50,7 @@ public class CoffeeMain {
                     }
                     break;
                 case 3 :
-                    System.out.println("추가할 메뉴 입력 : ");
+                    System.out.print("추가할 메뉴 입력 : ");
                     // containsKey(키)확인 후 해당 메뉴가 없으면 put()
                     key = sc.next();
                     if (!map.containsKey(key)) {
@@ -68,10 +68,16 @@ public class CoffeeMain {
                 case 4 :
                     System.out.print("삭제할 메뉴 입력 : ");
                     // containsKey(키) 해당키 존재 여부 확인하고 있으면, remove(key)
-
+                    key = sc.next();
+                    if(map.containsKey(key)) {
+                        map.remove(key);
+                        System.out.println(key + " 메뉴를 삭제 하였습니다.");
+                    } else {
+                        System.out.println("삭제할 메뉴가 없습니다.");
+                    }
                     break;
                 case 5 :
-                    System.out.println("수정 할 메뉴 입력 : ");
+                    System.out.print("수정 할 메뉴 입력 : ");
                     // containsKey(키)로 키를 찾아서 값 변경 후 put()
                     key = sc.next();
                     if (map.containsKey(key)) {

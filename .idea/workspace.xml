@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.08">
+      <change afterPath="$PROJECT_DIR$/src/Cw/Set인터페이스/SetMainEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cv/커피메뉴만들기/CoffeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cv/커피메뉴만들기/CoffeeMain.java" afterDir="false" />
     </list>
@@ -127,6 +128,7 @@
     "애플리케이션.R_InterfaceMain.executor": "Run",
     "애플리케이션.ReferenceEx.executor": "Run",
     "애플리케이션.S_InterfaceMain.executor": "Run",
+    "애플리케이션.SetMainEx.executor": "Run",
     "애플리케이션.SingletonEx.executor": "Run",
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.StringBufferEx.executor": "Run",
@@ -166,14 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00030" summary="2024.09.30">
-      <option name="closed" value="true" />
-      <created>1727675299925</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1727675299926</updated>
     </task>
     <task id="LOCAL-00031" summary="2024.09.30">
       <option name="closed" value="true" />
@@ -559,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728370890598</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="2024.10.08">
+      <option name="closed" value="true" />
+      <created>1728374930350</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1728374930350</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
