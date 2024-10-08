@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.07">
-      <change afterPath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.08">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,101 +50,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Study-java/k-digital-240910&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
-    &quot;애플리케이션.Aa_memberInfo.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AbstractMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AirConMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AlarmEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AnonymousEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraySort.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraysClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraysExMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.B_fildeAndMethodEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.BasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.C_OverLoadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CapsuleEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CarTest.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CloneMethodEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CocoaMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CommandInput.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ConstEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.D_MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DateClassMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DefaultMethodMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DoubleArrEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DownCastingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.E_MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EnumClassEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EnumClassMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Fa_ThisAndThis.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.FildAndMethodEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.G_IPadProMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.G_IPhoneMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericBasicMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericMainEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.H_MethodOverLoading.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.I_InheritanceBasic.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InheristanceTVMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InheritanceBasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InterfaceMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IpadMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.J_OverRidingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.K_HccInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.L_PersonClassMake.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.M_InheristanceTVMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MakeACarMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MathClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MemberInfoEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MethodOverloadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MultiInterfaceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MultiInterfaceEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.N_ObjectType.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NestedInterfaceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NumberEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectArrayEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectTypeEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverloadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverrideEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.P_PolyDriver.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ParamPolyEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.PlacticeNote.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q_SuperMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.R_InterfaceMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ReferenceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.S_InterfaceMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SingletonEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StaticBankMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StringBufferEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StringTokenEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SuperMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SystemClassName.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.T_CocoaTalkMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Uc_DefaultMethodMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VariableEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VehicleMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.WhileEx1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.WraprClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZA_MathClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZB_EnumClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZC_EnumClassTwo.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZD_DateClassMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZE_WrapClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션._ParamPoly.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.alsonoteasy.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.memory.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Study-java/k-digital-240910",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "애플리케이션.Aa_memberInfo.executor": "Run",
+    "애플리케이션.AbstractMain.executor": "Run",
+    "애플리케이션.AirConMain.executor": "Run",
+    "애플리케이션.AlarmEx.executor": "Run",
+    "애플리케이션.AnonymousEx.executor": "Run",
+    "애플리케이션.ArrayEx.executor": "Run",
+    "애플리케이션.ArraySort.executor": "Run",
+    "애플리케이션.ArraysClassEx.executor": "Run",
+    "애플리케이션.ArraysExMain.executor": "Run",
+    "애플리케이션.B_fildeAndMethodEx.executor": "Run",
+    "애플리케이션.BasicEx.executor": "Run",
+    "애플리케이션.C_OverLoadingEx.executor": "Run",
+    "애플리케이션.CapsuleEx.executor": "Run",
+    "애플리케이션.CarTest.executor": "Run",
+    "애플리케이션.CloneMethodEx.executor": "Run",
+    "애플리케이션.CocoaMain.executor": "Run",
+    "애플리케이션.CommandInput.executor": "Run",
+    "애플리케이션.ConstEx.executor": "Run",
+    "애플리케이션.D_MovieMain.executor": "Run",
+    "애플리케이션.DateClassMain.executor": "Run",
+    "애플리케이션.DefaultMethodMain.executor": "Run",
+    "애플리케이션.DoubleArrEx.executor": "Run",
+    "애플리케이션.DownCastingEx.executor": "Run",
+    "애플리케이션.E_MovieMain.executor": "Run",
+    "애플리케이션.EnumClassEx2.executor": "Run",
+    "애플리케이션.EnumClassMain.executor": "Run",
+    "애플리케이션.Fa_ThisAndThis.executor": "Run",
+    "애플리케이션.FildAndMethodEx2.executor": "Run",
+    "애플리케이션.G_IPadProMain.executor": "Run",
+    "애플리케이션.G_IPhoneMain.executor": "Run",
+    "애플리케이션.GenericBasicMain.executor": "Run",
+    "애플리케이션.GenericMainEx.executor": "Run",
+    "애플리케이션.H_MethodOverLoading.executor": "Run",
+    "애플리케이션.I_InheritanceBasic.executor": "Run",
+    "애플리케이션.InheristanceTVMain.executor": "Run",
+    "애플리케이션.InheritanceBasicEx.executor": "Run",
+    "애플리케이션.InterfaceMain.executor": "Run",
+    "애플리케이션.IpadMain.executor": "Run",
+    "애플리케이션.IteratorEx.executor": "Run",
+    "애플리케이션.IteratorEx2.executor": "Run",
+    "애플리케이션.J_OverRidingEx.executor": "Run",
+    "애플리케이션.K_HccInheritance.executor": "Run",
+    "애플리케이션.L_PersonClassMake.executor": "Run",
+    "애플리케이션.ListBasicEx.executor": "Run",
+    "애플리케이션.M_InheristanceTVMain.executor": "Run",
+    "애플리케이션.MakeACarMain.executor": "Run",
+    "애플리케이션.MathClassEx.executor": "Run",
+    "애플리케이션.MemberInfoEx.executor": "Run",
+    "애플리케이션.MethodOverloadingEx.executor": "Run",
+    "애플리케이션.MovieMain.executor": "Run",
+    "애플리케이션.MultiInterfaceEx.executor": "Run",
+    "애플리케이션.MultiInterfaceEx2.executor": "Run",
+    "애플리케이션.N_ObjectType.executor": "Run",
+    "애플리케이션.NestedInterfaceEx.executor": "Run",
+    "애플리케이션.NumberEx.executor": "Run",
+    "애플리케이션.ObjectArrayEx.executor": "Run",
+    "애플리케이션.ObjectClassEx.executor": "Run",
+    "애플리케이션.ObjectTypeEx.executor": "Run",
+    "애플리케이션.OverloadingEx.executor": "Run",
+    "애플리케이션.OverrideEx.executor": "Run",
+    "애플리케이션.P_PolyDriver.executor": "Run",
+    "애플리케이션.ParamPolyEx.executor": "Run",
+    "애플리케이션.PlacticeNote.executor": "Run",
+    "애플리케이션.Q_SuperMain.executor": "Run",
+    "애플리케이션.R_InterfaceMain.executor": "Run",
+    "애플리케이션.ReferenceEx.executor": "Run",
+    "애플리케이션.S_InterfaceMain.executor": "Run",
+    "애플리케이션.SingletonEx.executor": "Run",
+    "애플리케이션.StaticBankMain.executor": "Run",
+    "애플리케이션.StringBufferEx.executor": "Run",
+    "애플리케이션.StringTokenEx.executor": "Run",
+    "애플리케이션.SuperMain.executor": "Run",
+    "애플리케이션.SystemClassName.executor": "Run",
+    "애플리케이션.T_CocoaTalkMain.executor": "Run",
+    "애플리케이션.Uc_DefaultMethodMain.executor": "Run",
+    "애플리케이션.VariableEx.executor": "Run",
+    "애플리케이션.VehicleMain.executor": "Run",
+    "애플리케이션.WhileEx1.executor": "Run",
+    "애플리케이션.WraprClassEx.executor": "Run",
+    "애플리케이션.ZA_MathClass.executor": "Run",
+    "애플리케이션.ZB_EnumClass.executor": "Run",
+    "애플리케이션.ZC_EnumClassTwo.executor": "Run",
+    "애플리케이션.ZD_DateClassMain.executor": "Run",
+    "애플리케이션.ZE_WrapClass.executor": "Run",
+    "애플리케이션._ParamPoly.executor": "Run",
+    "애플리케이션.alsonoteasy.executor": "Run",
+    "애플리케이션.memory.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Br.에어컨만들기" />
@@ -160,14 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2024.09.29">
-      <option name="closed" value="true" />
-      <created>1727597311157</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1727597311157</updated>
     </task>
     <task id="LOCAL-00025" summary="2024.09.29">
       <option name="closed" value="true" />
@@ -553,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728309839122</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="2024.10.08">
+      <option name="closed" value="true" />
+      <created>1728348637382</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1728348637382</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,6 +583,7 @@
     <MESSAGE value="2024.10.0" />
     <MESSAGE value="2024.10.06" />
     <MESSAGE value="2024.10.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.07" />
+    <MESSAGE value="2024.10.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.08" />
   </component>
 </project>
