@@ -38,6 +38,11 @@ public class Order {
         }
         return false;
     }
+
+    public ArrayList<Product> getProducts() {
+        return products;
+    }
+
     // 500만원 *0.04 (세금 4%)
     public BigDecimal calculateFinalPrice(BigDecimal taxRate) {
         // 주문 금액에 세금을 곱해서 세액을 만들어 냄
