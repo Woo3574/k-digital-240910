@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.08">
+      <change afterPath="$PROJECT_DIR$/src/Cs/List인터페이스실습/VectorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/OrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/ProductMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +136,7 @@
     "애플리케이션.T_CocoaTalkMain.executor": "Run",
     "애플리케이션.Uc_DefaultMethodMain.executor": "Run",
     "애플리케이션.VariableEx.executor": "Run",
+    "애플리케이션.VectorMain.executor": "Run",
     "애플리케이션.VehicleMain.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
     "애플리케이션.WraprClassEx.executor": "Run",
@@ -162,14 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00025" summary="2024.09.29">
-      <option name="closed" value="true" />
-      <created>1727605570401</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1727605570401</updated>
     </task>
     <task id="LOCAL-00026" summary="2024.09.29">
       <option name="closed" value="true" />
@@ -555,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728348637382</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="2024.10.08">
+      <option name="closed" value="true" />
+      <created>1728352338878</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1728352338878</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
