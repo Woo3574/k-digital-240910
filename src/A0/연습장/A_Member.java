@@ -15,7 +15,7 @@ package A0.연습장;
 //        A 라는 인원이 작업하고있으면 B,C인원들이 동시작업을 진행하지못하게
 //        잠금,락을걸어버림
 
-
+dwdadsadwdwdwdwd
 
 import java.util.Scanner;
 
