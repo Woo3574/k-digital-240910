@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.10">
-      <change afterPath="$PROJECT_DIR$/src/Cy/컴페어러블/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cy/컴페어러블/ComparaEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cx/트리셋/TreeSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cx/트리셋/TreeSetEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/StudentSortEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/StudentSortEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +136,7 @@
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.StringBufferEx.executor": "Run",
     "애플리케이션.StringTokenEx.executor": "Run",
+    "애플리케이션.StudentSortEx.executor": "Run",
     "애플리케이션.SuperMain.executor": "Run",
     "애플리케이션.SystemClassName.executor": "Run",
     "애플리케이션.T_CocoaTalkMain.executor": "Run",
@@ -171,14 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00034" summary="2024.10.01">
-      <option name="closed" value="true" />
-      <created>1727752756343</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1727752756343</updated>
     </task>
     <task id="LOCAL-00035" summary="2024.10.01">
       <option name="closed" value="true" />
@@ -564,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728521509091</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="2024.10.10">
+      <option name="closed" value="true" />
+      <created>1728525397796</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1728525397796</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

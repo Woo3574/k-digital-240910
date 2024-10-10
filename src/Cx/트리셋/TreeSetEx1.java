@@ -6,8 +6,6 @@ package Cx.트리셋;
 // 요소가 정렬된 상태로유지 되어야 할 때 사용
 // 특정 기준으로 정렬을 해야하는 경우 Comparable, Comparator 인터페이스를 상속 받아 구현
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.TreeSet;
 
 public class TreeSetEx1 {
