@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.10">
-      <change afterPath="$PROJECT_DIR$/src/Dc/Stack응용/StackExMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dd/큐기본/QueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/De/명령어이력조회/QueueHistoryEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Df/반복자와향상된for문/IteratorExMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +103,7 @@
     "애플리케이션.IpadMain.executor": "Run",
     "애플리케이션.IteratorEx.executor": "Run",
     "애플리케이션.IteratorEx2.executor": "Run",
+    "애플리케이션.IteratorExMain.executor": "Run",
     "애플리케이션.J_OverRidingEx.executor": "Run",
     "애플리케이션.K_HccInheritance.executor": "Run",
     "애플리케이션.L_PersonClassMake.executor": "Run",
@@ -129,6 +129,7 @@
     "애플리케이션.PlacticeNote.executor": "Run",
     "애플리케이션.Q_SuperMain.executor": "Run",
     "애플리케이션.QueueEx.executor": "Run",
+    "애플리케이션.QueueHistoryEx.executor": "Run",
     "애플리케이션.R_InterfaceMain.executor": "Run",
     "애플리케이션.ReferenceEx.executor": "Run",
     "애플리케이션.S_InterfaceMain.executor": "Run",
@@ -176,14 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00037" summary="2024.10.01">
-      <option name="closed" value="true" />
-      <created>1727770310370</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1727770310370</updated>
     </task>
     <task id="LOCAL-00038" summary="2024.10.01">
       <option name="closed" value="true" />
@@ -569,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728531819311</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="2024.10.10">
+      <option name="closed" value="true" />
+      <created>1728543950077</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1728543950077</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
