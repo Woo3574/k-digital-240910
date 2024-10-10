@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.10">
-      <change afterPath="$PROJECT_DIR$/src/Da/컴페어레이터/ComparatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Da/컴페어레이터/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Da/컴페어레이터/FruitCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dc/Stack응용/StackExMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dd/큐기본/QueueEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cy/컴페어러블/ComparaEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cy/컴페어러블/ComparableEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/StudentSortEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/StudentSortEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,11 +128,14 @@
     "애플리케이션.ParamPolyEx.executor": "Run",
     "애플리케이션.PlacticeNote.executor": "Run",
     "애플리케이션.Q_SuperMain.executor": "Run",
+    "애플리케이션.QueueEx.executor": "Run",
     "애플리케이션.R_InterfaceMain.executor": "Run",
     "애플리케이션.ReferenceEx.executor": "Run",
     "애플리케이션.S_InterfaceMain.executor": "Run",
     "애플리케이션.SetMainEx.executor": "Run",
     "애플리케이션.SingletonEx.executor": "Run",
+    "애플리케이션.StackExMain.executor": "Run",
+    "애플리케이션.StackMain.executor": "Run",
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.StringBufferEx.executor": "Run",
     "애플리케이션.StringTokenEx.executor": "Run",
@@ -177,14 +176,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00036" summary="2024.10.01">
-      <option name="closed" value="true" />
-      <created>1727765525626</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1727765525626</updated>
     </task>
     <task id="LOCAL-00037" summary="2024.10.01">
       <option name="closed" value="true" />
@@ -570,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728528988753</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="2024.10.10">
+      <option name="closed" value="true" />
+      <created>1728531819311</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1728531819311</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
