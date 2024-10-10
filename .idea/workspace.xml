@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.10">
-      <change afterPath="$PROJECT_DIR$/src/De/명령어이력조회/QueueHistoryEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Df/반복자와향상된for문/IteratorExMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zd/단어정렬/WordArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A0/연습장/A_Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/A_Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +150,7 @@
     "애플리케이션.VectorMain.executor": "Run",
     "애플리케이션.VehicleMain.executor": "Run",
     "애플리케이션.WhileEx1.executor": "Run",
+    "애플리케이션.WordArray.executor": "Run",
     "애플리케이션.WraprClassEx.executor": "Run",
     "애플리케이션.ZA_MathClass.executor": "Run",
     "애플리케이션.ZB_EnumClass.executor": "Run",
@@ -177,14 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00038" summary="2024.10.01">
-      <option name="closed" value="true" />
-      <created>1727772612365</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1727772612365</updated>
     </task>
     <task id="LOCAL-00039" summary="2024.10.01">
       <option name="closed" value="true" />
@@ -570,7 +563,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728543950077</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="2024.10.10">
+      <option name="closed" value="true" />
+      <created>1728546514601</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1728546514601</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

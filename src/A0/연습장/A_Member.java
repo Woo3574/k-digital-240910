@@ -15,6 +15,20 @@ package A0.연습장;
 //        A 라는 인원이 작업하고있으면 B,C인원들이 동시작업을 진행하지못하게
 //        잠금,락을걸어버림
 
+//
+//hash는 해쉬 펑션으로 자료를 저장하는것
+//        List는 순서대로저장하는 것
+//        set은 중복을허용하지않는다, 수학적 표현은 집합
+//
+//        List = Array,Link,vec
+//        set = tree,hash
+//        map = tree,hash
+//
+//        나열을 했을때 root 가 처음과 끝의 사이에 있으면 in-order
+//        pre order = root 가 맨앞에
+//        in order = root 가 중간에
+//        post order = root 가 맨뒤에
+
 import java.util.Scanner;
 
 public class A_Member {
