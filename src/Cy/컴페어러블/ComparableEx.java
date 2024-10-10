@@ -6,7 +6,7 @@ package Cy.컴페어러블;
 
 import java.util.TreeSet;
 
-public class ComparaEx {
+public class ComparableEx {
     public static void main(String[] args) {
         TreeSet<Car> treeSet = new TreeSet<>();
         treeSet.add(new Car("Santafe", 2023, "white"));

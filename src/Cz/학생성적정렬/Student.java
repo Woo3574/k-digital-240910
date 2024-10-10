@@ -15,7 +15,7 @@ public class Student implements Comparable<Student> {
 //            return -1;
 //        } // 위,아래방법 둘다 가능
         if (this.getTotalScore() != o.getTotalScore()) {
-            return o.getTotalScore() - this.getTotalScore(); // 뒤에값이 큰 경우가 양수가 됨
+            return o.getTotalScore() - this.getTotalScore(); // 뒤에값이 큰 경우가 양수가 됨, 값을 뺀값이 양수일경우 정렬
         }
         return this.name.compareTo(o.name);
     }

@@ -4,8 +4,7 @@ package Cz.학생성적정렬;
 // 첫번째 조건은 총점 기준
 // 총점이 같으면 이름의 사전순으로 정렬
 
-import java.util.Scanner;
-import java.util.TreeSet;
+import java.util.*;
 
 public class StudentSortEx {
     public static void main(String[] args) {
@@ -35,7 +34,8 @@ public class StudentSortEx {
 
     static void teacher() {
         Scanner sc = new Scanner(System.in);
-        TreeSet<Student> treeSet =new TreeSet<>();
+        //TreeSet<Student> treeSet = new TreeSet<>(); // 트리셋 사용가능
+        List<Student> treeSet = new ArrayList<>(); // 리스트 사용가능
         for (int i = 0; i < 5; i++) {
             System.out.print("이름 입력 : ");
             String name = sc.next();
@@ -47,8 +47,10 @@ public class StudentSortEx {
             int mat = sc.nextInt();
             treeSet.add(new Student(name, kor, eng, mat));
         }
+        Collections.sort(treeSet); // 리스트일경우 사용
+
         System.out.println("====== 성적 결과 ======");
-        for (Student e : treeSet) { // Student 객체의 요소를 해당 객체의 오버라이딩tosTring 출력값에 반영됨 
+        for (Student e : treeSet) { // Student 객체의 요소를 해당 객체의 오버라이딩tosTring 출력값에 반영됨
             System.out.println(e);
         }
     }
