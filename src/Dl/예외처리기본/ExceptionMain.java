@@ -8,11 +8,15 @@ package Dl.예외처리기본;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class ExceptionMain {
     public static void main(String[] args) {
-        arrayExceptionFunc();
-        fileNotFoundFunc();
+        // arrayExceptionFunc();
+        // fileNotFoundFunc();
+        // nullPointerFunc();
+        arithmeticFunc();
     }
     static void arrayExceptionFunc() {
         try {
@@ -33,4 +37,35 @@ public class ExceptionMain {
             System.out.println("해당 파일이 없습니다. 계속 진행하시겠습니까?");
         }
     }
+
+    //NullPointerException
+    static void nullPointerFunc() {
+        try {
+            Test test = null; // 참조하는 객체가 없음을 의미
+            System.out.println(test.name);
+        } catch (NullPointerException e) {
+            System.out.println("참조하고자하는 객체가 생성되지않았습니다.");
+        }
+    }
+
+    static void arithmeticFunc() {
+        int rst = 0;
+        try {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("첫번째 값 : ");
+        int a = sc.nextInt();
+        System.out.print("두번째 값 : ");
+        int b = sc.nextInt();
+            rst = a / b;
+            System.out.println(rst);
+        } catch (ArithmeticException | InputMismatchException e) {
+            System.out.println(e + "오류 발생");
+        } finally {
+            System.out.println("무조건 수행되는 구문");
+        }
+    }
+}
+
+class Test {
+    String name = "민지";
 }
