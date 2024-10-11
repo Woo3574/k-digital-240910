@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.11">
-      <change afterPath="$PROJECT_DIR$/src/Dj/데몬스레드/DaemonThEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameThA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameThB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dl/예외처리기본/ExceptionMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +88,7 @@
     "애플리케이션.E_MovieMain.executor": "Run",
     "애플리케이션.EnumClassEx2.executor": "Run",
     "애플리케이션.EnumClassMain.executor": "Run",
+    "애플리케이션.ExceptionMain.executor": "Run",
     "애플리케이션.Fa_ThisAndThis.executor": "Run",
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.G_IPadProMain.executor": "Run",
@@ -188,14 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00043" summary="2024.10.02">
-      <option name="closed" value="true" />
-      <created>1727837124645</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1727837124645</updated>
     </task>
     <task id="LOCAL-00044" summary="2024.10.03">
       <option name="closed" value="true" />
@@ -581,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728614906086</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="2024.10.11">
+      <option name="closed" value="true" />
+      <created>1728618358191</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1728618358191</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
