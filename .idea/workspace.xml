@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.11">
-      <change afterPath="$PROJECT_DIR$/src/Dh/스레드종료/ThreadStopEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dj/데몬스레드/DaemonThEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameThA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameThB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dk/게임만들기/Unit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +85,7 @@
     "애플리케이션.ComparatorEx.executor": "Run",
     "애플리케이션.ConstEx.executor": "Run",
     "애플리케이션.D_MovieMain.executor": "Run",
+    "애플리케이션.DaemonThEx.executor": "Run",
     "애플리케이션.DateClassMain.executor": "Run",
     "애플리케이션.DefaultMethodMain.executor": "Run",
     "애플리케이션.DoubleArrEx.executor": "Run",
@@ -92,6 +98,7 @@
     "애플리케이션.FildAndMethodEx2.executor": "Run",
     "애플리케이션.G_IPadProMain.executor": "Run",
     "애플리케이션.G_IPhoneMain.executor": "Run",
+    "애플리케이션.GameMain.executor": "Run",
     "애플리케이션.GenericBasicMain.executor": "Run",
     "애플리케이션.GenericMainEx.executor": "Run",
     "애플리케이션.H_MethodOverLoading.executor": "Run",
@@ -142,6 +149,7 @@
     "애플리케이션.StringTokenEx.executor": "Run",
     "애플리케이션.StudentSortEx.executor": "Run",
     "애플리케이션.SuperMain.executor": "Run",
+    "애플리케이션.SyncMainEx.executor": "Run",
     "애플리케이션.SystemClassName.executor": "Run",
     "애플리케이션.T_CocoaTalkMain.executor": "Run",
     "애플리케이션.ThreadBasicEx.executor": "Run",
@@ -180,14 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00042" summary="2024.10.02">
-      <option name="closed" value="true" />
-      <created>1727833419646</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1727833419646</updated>
     </task>
     <task id="LOCAL-00043" summary="2024.10.02">
       <option name="closed" value="true" />
@@ -573,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728611366580</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="2024.10.11">
+      <option name="closed" value="true" />
+      <created>1728614906086</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1728614906086</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

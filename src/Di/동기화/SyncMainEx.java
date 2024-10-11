@@ -7,20 +7,28 @@ import static java.lang.Thread.sleep;
 
 public class SyncMainEx {
     public static void main(String[] args) {
-        Thread  thread = new Thread(() -> {
-
+        ShareThread shareThread = new ShareThread();
+        Thread thread1 = new Thread(() -> {
+            shareThread.setValue(100);
         });
+        Thread thread2 = new Thread(() -> {
+           shareThread.setValue(10);
+        });
+        thread1.setName("쓰레드 1");
+        thread2.setName("쓰레드 2");
+        thread1.start();
+        thread2.start();
     }
 }
 
-class shareThread {
+class ShareThread {
     private int value = 0;
 
     public int getValue() {
         return value;
     }
 
-    public void setValue(int value) {
+    public synchronized void setValue(int value) {
         this.value = value;
         try {
             sleep(2000);
