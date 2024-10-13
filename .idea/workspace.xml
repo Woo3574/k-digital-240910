@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.13">
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZFA_Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZFAb_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZF_Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZGA_GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZGAa_Powder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZGAb_GenericPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,14 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00047" summary="2024.10.03">
-      <option name="closed" value="true" />
-      <created>1727957035806</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1727957035806</updated>
     </task>
     <task id="LOCAL-00048" summary="2024.10.03">
       <option name="closed" value="true" />
@@ -586,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728789992342</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="2024.10.13">
+      <option name="closed" value="true" />
+      <created>1728827895658</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1728827895658</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
