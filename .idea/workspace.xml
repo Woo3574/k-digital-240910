@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.11">
-      <change afterPath="$PROJECT_DIR$/src/Dn/입출력스트림/InOutStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/입출력스트림/Chicken.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/입출력스트림/InOutStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바파이널과제/JavaFinalReportMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바파이널과제/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바파이널과제/student.txt" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.13">
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZFA_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZFAb_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZF_Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZGA_GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZGAa_Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A0/연습장/ZGAb_GenericPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cx/트리셋/TreeSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cx/트리셋/TreeSetEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +40,12 @@
     &quot;assignee&quot;: &quot;Woo3574&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Woo3574/k-digital-240910.git&quot;,
-    &quot;accountId&quot;: &quot;6ce6fe45-b811-4a37-8720-c64a0dd0fe3a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Woo3574/k-digital-240910.git",
+    "accountId": "a594cc16-9df6-44c3-970f-40f3cfa83422"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -170,6 +169,9 @@
     "애플리케이션.ZC_EnumClassTwo.executor": "Run",
     "애플리케이션.ZD_DateClassMain.executor": "Run",
     "애플리케이션.ZE_WrapClass.executor": "Run",
+    "애플리케이션.ZFAb_Main.executor": "Run",
+    "애플리케이션.ZF_Box.executor": "Run",
+    "애플리케이션.ZGA_GenericClass.executor": "Run",
     "애플리케이션._ParamPoly.executor": "Run",
     "애플리케이션.alsonoteasy.executor": "Run",
     "애플리케이션.memory.executor": "Run"
@@ -191,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00046" summary="2024.10.03">
-      <option name="closed" value="true" />
-      <created>1727956871054</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1727956871054</updated>
     </task>
     <task id="LOCAL-00047" summary="2024.10.03">
       <option name="closed" value="true" />
@@ -584,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728629143806</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="2024.10.13">
+      <option name="closed" value="true" />
+      <created>1728789992342</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1728789992342</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -615,7 +617,8 @@
     <MESSAGE value="2024.10.08" />
     <MESSAGE value="2024.10.10" />
     <MESSAGE value="2024.10.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.11" />
+    <MESSAGE value="2024.10.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
