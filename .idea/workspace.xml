@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.14">
-      <change afterPath="$PROJECT_DIR$/src/Dp/메서드참조/MethodRefEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dq/스트림/StreamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dr/스트림2번/StreamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ds/스트림3번/StreamEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dt/스트림4번/StreamEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Du/스트림중간연산/StreamMidEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Do/람다표현식/LambdaEX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Do/람다표현식/LambdaEX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +147,8 @@
     "애플리케이션.StaticBankMain.executor": "Run",
     "애플리케이션.StreamEx.executor": "Run",
     "애플리케이션.StreamEx3.executor": "Run",
+    "애플리케이션.StreamEx4.executor": "Run",
+    "애플리케이션.StreamMidEx.executor": "Run",
     "애플리케이션.StringBufferEx.executor": "Run",
     "애플리케이션.StringTokenEx.executor": "Run",
     "애플리케이션.StudentSortEx.executor": "Run",
@@ -196,14 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00050" summary="2024.10.03">
-      <option name="closed" value="true" />
-      <created>1727967240152</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1727967240153</updated>
     </task>
     <task id="LOCAL-00051" summary="2024.10.04">
       <option name="closed" value="true" />
@@ -589,7 +580,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728870642575</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="2024.10.14">
+      <option name="closed" value="true" />
+      <created>1728877571035</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1728877571035</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
