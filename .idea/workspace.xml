@@ -4,213 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.13">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.10.14">
+      <change afterPath="$PROJECT_DIR$/src/Do/람다표현식/LambdaEX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-digital-240910.iml" beforeDir="false" afterPath="$PROJECT_DIR$/k-digital-240910.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/A_Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/A_Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Aa_MemberInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Aa_MemberInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/B_FildeAndMethodEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/B_FildeAndMethodEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/C_OverLoadingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/C_OverLoadingEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ca_Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ca_Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/D_MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/D_MovieMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Da_MovieTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Da_MovieTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/E_MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/E_MovieMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ea_MovieTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ea_MovieTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Fa_ThisAndThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Fa_ThisAndThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/G_IPadProMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ga_IPadPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/H_MethodOverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/H_MethodOverLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/I_InheritanceBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/I_InheritanceBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/J_OverRidingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/J_OverRidingEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/K_HccInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/K_HccInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/L_PersonClassMake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/M_InheristanceTVMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/M_InheristanceTVMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ma_ProtoTypeTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ma_ProtoTypeTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Mb_ProdoutcTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Mb_ProdoutcTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/N_ObjectType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/N_ObjectType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/O_ParamPoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/O_ParamPoly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/P_PolyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/P_PolyDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/PlacticeNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Q_SuperMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Q_SuperMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/R_InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/R_InterfaceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ra_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ra_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/S_InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/S_InterfaceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Sa_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Sa_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/T_CocoaTalkMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Ta_CocoaTalkInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Ta_CocoaTalkInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/Tb_CocoaTalk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/ZA_MathClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/ZA_MathClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/ZB_EnumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/ZB_EnumClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/ZC_EnumClassTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/ZC_EnumClassTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/ZD_DateClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/ZD_DateClassMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A0/연습장/ZE_WrapClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A0/연습장/ZE_WrapClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A1/Common/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Common/Common.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aa/기본연습/BasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aa/기본연습/BasicEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ab/변수연습/VariableEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ab/변수연습/VariableEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ac/상수와리터럴/ConstEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ac/상수와리터럴/ConstEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ad/시스템입출력/SystemInOutEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ad/시스템입출력/SystemInOutEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ae/스캐너클래스/ScannerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ae/스캐너클래스/ScannerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Af/입력받기연습/ScannerInputEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Af/입력받기연습/ScannerInputEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ag/연산자연습/OperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ag/연산자연습/OperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ah/비트연산자/BitOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ah/비트연산자/BitOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ai/조건문/ConditionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ai/조건문/ConditionEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aj/스위치문/SwitchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aj/스위치문/SwitchEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aj/스위치문/memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aj/스위치문/memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ak/등급출력하기/GradeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ak/등급출력하기/GradeEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Al/스위치문계산기/SwitchEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Al/스위치문계산기/SwitchEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx999.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Am/상근이알람/AlarmEx999.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/An/반복문/IteratorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/An/반복문/IteratorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ao/while반복문/WhileEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ao/while반복문/WhileEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx999.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ap/반복문연습/IteratorEx999.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aq/참조타입/ReferenceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aq/참조타입/ReferenceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ar/배열/ArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ar/배열/ArrayEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/As/커맨드입력/CommandInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As/커맨드입력/CommandInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/At/배열정렬/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/At/배열정렬/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Au/이차원배열/DoubleArrEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Au/이차원배열/DoubleArrEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Av/얕은복사깊은복사/CopyTypeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Av/얕은복사깊은복사/CopyTypeEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aw/평균점수구하기/AverEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ax/문자열다루기/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ax/문자열다루기/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ay/KMP암호화/KmpRx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ay/KMP암호화/KmpRx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Az/회원정보/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Az/회원정보/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Az/회원정보/MemberInfoEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Az/회원정보/MemberInfoEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ba/필드와메서드/FildAndMethodEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ba/필드와메서드/FildAndMethodEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ba/필드와메서드/FildAndMethodEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ba/필드와메서드/FildAndMethodEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bb/생성자오버로딩/OverloadingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bb/생성자오버로딩/OverloadingEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bb/생성자오버로딩/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bb/생성자오버로딩/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bc/영화표예매하기/MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bc/영화표예매하기/MovieMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bc/영화표예매하기/MovieTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bc/영화표예매하기/MovieTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bd/This와This/ThisMethodEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bd/This와This/ThisMethodEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IPadPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Be/아이패드주문하기/IpadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Be/아이패드주문하기/IpadMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bf/메서드오버로딩/MethodOverloadingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bf/메서드오버로딩/MethodOverloadingEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bg/상속기본형/InheritanceBasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bg/상속기본형/InheritanceBasicEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bh/상속과오버라이딩/OverrideEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bh/상속과오버라이딩/OverrideEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bi/상속TV/InheristanceTVMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bi/상속TV/InheristanceTVMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bi/상속TV/ProductTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bi/상속TV/ProductTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bi/상속TV/ProtoTypeTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bi/상속TV/ProtoTypeTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bj/객체타입확인/ObjectTypeEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bj/객체타입확인/ObjectTypeEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bk/매개변수의다형성/ParamPolyEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bk/매개변수의다형성/ParamPolyEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bl/다형성Driver/PolyDriverEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bl/다형성Driver/PolyDriverEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bm/슈퍼메서드/SuperMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bm/슈퍼메서드/SuperMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bn/접근제한자/CapsuleEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bn/접근제한자/CapsuleEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bn/접근제한자/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bn/접근제한자/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/StaticBankMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/StaticBankMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bo/정적메서드은행예제/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bp/싱글톤/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bp/싱글톤/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bp/싱글톤/SingletonEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bp/싱글톤/SingletonEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bp/싱글톤/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bp/싱글톤/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bq/번호판계산/NumberEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bq/번호판계산/NumberEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bq/번호판계산/NumberExi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bq/번호판계산/NumberExi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Br/에어컨만들기/AirCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Br/에어컨만들기/AirCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Br/에어컨만들기/AirConMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Br/에어컨만들기/AirConMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Br/에어컨만들기/PortableAirCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Br/에어컨만들기/PortableAirCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Br/에어컨만들기/SmartAirCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Br/에어컨만들기/SmartAirCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bs/추상클래스/AbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bs/추상클래스/AbstractMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bs/추상클래스/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bs/추상클래스/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bs/추상클래스/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bs/추상클래스/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bt/인터페이스기본/InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bt/인터페이스기본/InterfaceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bt/인터페이스기본/NetworkAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bt/인터페이스기본/NetworkAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bu/코코아톡/CocoaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bu/코코아톡/CocoaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bu/코코아톡/CocoaTok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bu/코코아톡/CocoaTok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bu/코코아톡/NetworkAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bu/코코아톡/NetworkAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bv/디폴트메서드/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bv/디폴트메서드/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bv/디폴트메서드/DefaultMethodMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bv/디폴트메서드/DefaultMethodMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bv/디폴트메서드/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bv/디폴트메서드/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bv/디폴트메서드/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bv/디폴트메서드/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXBus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXPassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXPassengerCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXSportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bw/MakeABmwCar/BmwXSportsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bw/MakeABmwCar/MakeACarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bw/MakeABmwCar/MakeACarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bx/다운캐스팅/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bx/다운캐스팅/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bx/다운캐스팅/DownCastingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bx/다운캐스팅/DownCastingEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/By/객체를배열로/NameCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/By/객체를배열로/NameCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/By/객체를배열로/ObjectArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/By/객체를배열로/ObjectArrayEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bz/다중인터페이스/AirCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bz/다중인터페이스/AirCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bz/다중인터페이스/AutoDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bz/다중인터페이스/AutoDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bz/다중인터페이스/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bz/다중인터페이스/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bz/다중인터페이스/MultiInterfaceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bz/다중인터페이스/MultiInterfaceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bz/다중인터페이스/SprotsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bz/다중인터페이스/SprotsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ca/다중인터페이스2번/MultiInterfaceEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ca/다중인터페이스2번/MultiInterfaceEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cb/익명객체/AnonymousEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cb/익명객체/AnonymousEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/CallListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/CallListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/MessageListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/NestedInterfaceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cc/즁첩인터페이스/NestedInterfaceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cd/오브젝트클래스/ObjectClassEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cd/오브젝트클래스/ObjectClassEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ce/클론메서드/CloneMethodEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ce/클론메서드/CloneMethodEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ce/클론메서드/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ce/클론메서드/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cf/스트링버퍼/StringBufferEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cf/스트링버퍼/StringBufferEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cg/Math클래스/MathClassEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cg/Math클래스/MathClassEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch/Enum클래스/EnumClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch/Enum클래스/EnumClassMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ci/Enum클래스예제2번/EnumClassEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ci/Enum클래스예제2번/EnumClassEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cj/시간과날짜/DateClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cj/시간과날짜/DateClassMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ck/Wrapper클래스/WrapClassEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ck/Wrapper클래스/WrapClassEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cl/Arrays클래스/ArraysClassEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cl/Arrays클래스/ArraysClassEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cm/Arrays연습문제/ArraysExMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cm/Arrays연습문제/ArraysExMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cn/System클래스/SystemClassName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cn/System클래스/SystemClassName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Co/String토커나이즈/StringTokenEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Co/String토커나이즈/StringTokenEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cp/제네릭기본/GenericBasicMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cp/제네릭기본/GenericBasicMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cq/제네릭프린터/GenericMainEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/GenericMainEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cq/제네릭프린터/GenericPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/GenericPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cq/제네릭프린터/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Material.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cq/제네릭프린터/Nylon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Nylon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cq/제네릭프린터/Plastic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Plastic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cq/제네릭프린터/Powder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cq/제네릭프린터/Powder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cr/List인터페이스/ListBasicEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cs/List인터페이스실습/VectorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cs/List인터페이스실습/VectorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ct/ArrayList응용예제/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cu/HashMap기본/HashMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cu/HashMap기본/HashMapEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cv/커피메뉴만들기/CoffeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cv/커피메뉴만들기/CoffeeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cv/커피메뉴만들기/MenuInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cv/커피메뉴만들기/MenuInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cw/Set인터페이스/SetMainEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cw/Set인터페이스/SetMainEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cx/트리셋/TreeSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cx/트리셋/TreeSetEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cy/컴페어러블/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cy/컴페어러블/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cy/컴페어러블/ComparableEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cy/컴페어러블/ComparableEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/Score.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cz/학생성적정렬/StudentSortEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cz/학생성적정렬/StudentSortEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Da/컴페어레이터/ComparatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Da/컴페어레이터/ComparatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Da/컴페어레이터/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Da/컴페어레이터/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Da/컴페어레이터/FruitCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Da/컴페어레이터/FruitCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Db/스택기본/StackMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dc/Stack응용/StackExMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dc/Stack응용/StackExMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dd/큐기본/QueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dd/큐기본/QueueEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/De/명령어이력조회/QueueHistoryEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/De/명령어이력조회/QueueHistoryEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Df/반복자와향상된for문/IteratorExMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Df/반복자와향상된for문/IteratorExMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dg/멀티스레드기본/ThreadBasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dg/멀티스레드기본/ThreadBasicEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dh/스레드종료/ThreadStopEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dh/스레드종료/ThreadStopEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Di/동기화/SyncMainEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dj/데몬스레드/DaemonThEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dj/데몬스레드/DaemonThEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dk/게임만들기/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dk/게임만들기/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dk/게임만들기/GameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dk/게임만들기/GameThA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameThA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dk/게임만들기/GameThB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dk/게임만들기/GameThB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dk/게임만들기/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dk/게임만들기/Unit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dl/예외처리기본/ExceptionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dl/예외처리기본/ExceptionMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dm/예외처리미루기/ExceptionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dm/예외처리미루기/ExceptionMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dn/입출력스트림/InOutStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dn/입출력스트림/InOutStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zc/HCar/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zc/HCar/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zc/HCar/HCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zc/HCar/HCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zc/HCar/HSonata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zc/HCar/HSonata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zd/단어정렬/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zd/단어정렬/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zd/단어정렬/WordArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zd/단어정렬/WordArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zd/단어정렬/WordMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zd/단어정렬/WordMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/입출력스트림/Chicken.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/입출력스트림/Chicken.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/입출력스트림/InOutStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/입출력스트림/InOutStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/자바파이널과제/JavaFinalReportMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바파이널과제/JavaFinalReportMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바파이널과제/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바파이널과제/student.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바파이널과제/student.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,12 +36,12 @@
     &quot;assignee&quot;: &quot;Woo3574&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Woo3574/k-digital-240910.git",
-    "accountId": "6ce6fe45-b811-4a37-8720-c64a0dd0fe3a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Woo3574/k-digital-240910.git&quot;,
+    &quot;accountId&quot;: &quot;6ce6fe45-b811-4a37-8720-c64a0dd0fe3a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -254,128 +51,129 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Study-java/k-digital-240910&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
-    &quot;애플리케이션.Aa_memberInfo.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AbstractMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AirConMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AlarmEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.AnonymousEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArrayEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraySort.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraysClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ArraysExMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.B_fildeAndMethodEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.BasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.C_OverLoadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CapsuleEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CarTest.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CloneMethodEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CocoaMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CoffeeMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CommandInput.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ComparaEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ComparatorEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ConstEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.D_MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DaemonThEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DateClassMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DefaultMethodMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DoubleArrEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DownCastingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.E_MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EnumClassEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EnumClassMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ExceptionMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Fa_ThisAndThis.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.FildAndMethodEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.G_IPadProMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.G_IPhoneMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GameMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericBasicMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericMainEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.H_MethodOverLoading.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HashMapEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.I_InheritanceBasic.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InOutStream.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InheristanceTVMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InheritanceBasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.InterfaceMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IpadMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.IteratorExMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.J_OverRidingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.JavaFinalReportMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.K_HccInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.L_PersonClassMake.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ListBasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.M_InheristanceTVMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MakeACarMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MathClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MemberInfoEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MethodOverloadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MultiInterfaceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MultiInterfaceEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.N_ObjectType.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NestedInterfaceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NumberEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectArrayEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ObjectTypeEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverloadingEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverrideEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.P_PolyDriver.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ParamPolyEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.PlacticeNote.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q_SuperMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.QueueEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.QueueHistoryEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.R_InterfaceMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ReferenceEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.S_InterfaceMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SetMainEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SingletonEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StackExMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StackMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StaticBankMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StringBufferEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StringTokenEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StudentSortEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SuperMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SyncMainEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SystemClassName.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.T_CocoaTalkMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ThreadBasicEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ThreadStopEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.TreeSetEx1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Uc_DefaultMethodMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VariableEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VectorMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VehicleMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.WhileEx1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.WordArray.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.WraprClassEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZA_MathClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZB_EnumClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZC_EnumClassTwo.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZD_DateClassMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZE_WrapClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZFAb_Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZF_Box.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ZGA_GenericClass.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션._ParamPoly.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.alsonoteasy.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.memory.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Study-java/k-digital-240910",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "애플리케이션.Aa_memberInfo.executor": "Run",
+    "애플리케이션.AbstractMain.executor": "Run",
+    "애플리케이션.AirConMain.executor": "Run",
+    "애플리케이션.AlarmEx.executor": "Run",
+    "애플리케이션.AnonymousEx.executor": "Run",
+    "애플리케이션.ArrayEx.executor": "Run",
+    "애플리케이션.ArraySort.executor": "Run",
+    "애플리케이션.ArraysClassEx.executor": "Run",
+    "애플리케이션.ArraysExMain.executor": "Run",
+    "애플리케이션.B_fildeAndMethodEx.executor": "Run",
+    "애플리케이션.BasicEx.executor": "Run",
+    "애플리케이션.C_OverLoadingEx.executor": "Run",
+    "애플리케이션.CapsuleEx.executor": "Run",
+    "애플리케이션.CarTest.executor": "Run",
+    "애플리케이션.CloneMethodEx.executor": "Run",
+    "애플리케이션.CocoaMain.executor": "Run",
+    "애플리케이션.CoffeeMain.executor": "Run",
+    "애플리케이션.CommandInput.executor": "Run",
+    "애플리케이션.ComparaEx.executor": "Run",
+    "애플리케이션.ComparatorEx.executor": "Run",
+    "애플리케이션.ConstEx.executor": "Run",
+    "애플리케이션.D_MovieMain.executor": "Run",
+    "애플리케이션.DaemonThEx.executor": "Run",
+    "애플리케이션.DateClassMain.executor": "Run",
+    "애플리케이션.DefaultMethodMain.executor": "Run",
+    "애플리케이션.DoubleArrEx.executor": "Run",
+    "애플리케이션.DownCastingEx.executor": "Run",
+    "애플리케이션.Driver.executor": "Run",
+    "애플리케이션.E_MovieMain.executor": "Run",
+    "애플리케이션.EnumClassEx2.executor": "Run",
+    "애플리케이션.EnumClassMain.executor": "Run",
+    "애플리케이션.ExceptionMain.executor": "Run",
+    "애플리케이션.Fa_ThisAndThis.executor": "Run",
+    "애플리케이션.FildAndMethodEx2.executor": "Run",
+    "애플리케이션.G_IPadProMain.executor": "Run",
+    "애플리케이션.G_IPhoneMain.executor": "Run",
+    "애플리케이션.GameMain.executor": "Run",
+    "애플리케이션.GenericBasicMain.executor": "Run",
+    "애플리케이션.GenericMainEx.executor": "Run",
+    "애플리케이션.H_MethodOverLoading.executor": "Run",
+    "애플리케이션.HashMapEx.executor": "Run",
+    "애플리케이션.I_InheritanceBasic.executor": "Run",
+    "애플리케이션.InOutStream.executor": "Run",
+    "애플리케이션.InheristanceTVMain.executor": "Run",
+    "애플리케이션.InheritanceBasicEx.executor": "Run",
+    "애플리케이션.InterfaceMain.executor": "Run",
+    "애플리케이션.IpadMain.executor": "Run",
+    "애플리케이션.IteratorEx.executor": "Run",
+    "애플리케이션.IteratorEx2.executor": "Run",
+    "애플리케이션.IteratorExMain.executor": "Run",
+    "애플리케이션.J_OverRidingEx.executor": "Run",
+    "애플리케이션.JavaFinalReportMain.executor": "Run",
+    "애플리케이션.K_HccInheritance.executor": "Run",
+    "애플리케이션.L_PersonClassMake.executor": "Run",
+    "애플리케이션.LambdaEX.executor": "Run",
+    "애플리케이션.ListBasicEx.executor": "Run",
+    "애플리케이션.M_InheristanceTVMain.executor": "Run",
+    "애플리케이션.MakeACarMain.executor": "Run",
+    "애플리케이션.MathClassEx.executor": "Run",
+    "애플리케이션.MemberInfoEx.executor": "Run",
+    "애플리케이션.MethodOverloadingEx.executor": "Run",
+    "애플리케이션.MovieMain.executor": "Run",
+    "애플리케이션.MultiInterfaceEx.executor": "Run",
+    "애플리케이션.MultiInterfaceEx2.executor": "Run",
+    "애플리케이션.N_ObjectType.executor": "Run",
+    "애플리케이션.NestedInterfaceEx.executor": "Run",
+    "애플리케이션.NumberEx.executor": "Run",
+    "애플리케이션.ObjectArrayEx.executor": "Run",
+    "애플리케이션.ObjectClassEx.executor": "Run",
+    "애플리케이션.ObjectTypeEx.executor": "Run",
+    "애플리케이션.OverloadingEx.executor": "Run",
+    "애플리케이션.OverrideEx.executor": "Run",
+    "애플리케이션.P_PolyDriver.executor": "Run",
+    "애플리케이션.ParamPolyEx.executor": "Run",
+    "애플리케이션.PlacticeNote.executor": "Run",
+    "애플리케이션.Q_SuperMain.executor": "Run",
+    "애플리케이션.QueueEx.executor": "Run",
+    "애플리케이션.QueueHistoryEx.executor": "Run",
+    "애플리케이션.R_InterfaceMain.executor": "Run",
+    "애플리케이션.ReferenceEx.executor": "Run",
+    "애플리케이션.S_InterfaceMain.executor": "Run",
+    "애플리케이션.SetMainEx.executor": "Run",
+    "애플리케이션.SingletonEx.executor": "Run",
+    "애플리케이션.StackExMain.executor": "Run",
+    "애플리케이션.StackMain.executor": "Run",
+    "애플리케이션.StaticBankMain.executor": "Run",
+    "애플리케이션.StringBufferEx.executor": "Run",
+    "애플리케이션.StringTokenEx.executor": "Run",
+    "애플리케이션.StudentSortEx.executor": "Run",
+    "애플리케이션.SuperMain.executor": "Run",
+    "애플리케이션.SyncMainEx.executor": "Run",
+    "애플리케이션.SystemClassName.executor": "Run",
+    "애플리케이션.T_CocoaTalkMain.executor": "Run",
+    "애플리케이션.ThreadBasicEx.executor": "Run",
+    "애플리케이션.ThreadStopEx.executor": "Run",
+    "애플리케이션.TreeSetEx1.executor": "Run",
+    "애플리케이션.Uc_DefaultMethodMain.executor": "Run",
+    "애플리케이션.VariableEx.executor": "Run",
+    "애플리케이션.VectorMain.executor": "Run",
+    "애플리케이션.VehicleMain.executor": "Run",
+    "애플리케이션.WhileEx1.executor": "Run",
+    "애플리케이션.WordArray.executor": "Run",
+    "애플리케이션.WraprClassEx.executor": "Run",
+    "애플리케이션.ZA_MathClass.executor": "Run",
+    "애플리케이션.ZB_EnumClass.executor": "Run",
+    "애플리케이션.ZC_EnumClassTwo.executor": "Run",
+    "애플리케이션.ZD_DateClassMain.executor": "Run",
+    "애플리케이션.ZE_WrapClass.executor": "Run",
+    "애플리케이션.ZFAb_Main.executor": "Run",
+    "애플리케이션.ZF_Box.executor": "Run",
+    "애플리케이션.ZGA_GenericClass.executor": "Run",
+    "애플리케이션._ParamPoly.executor": "Run",
+    "애플리케이션.alsonoteasy.executor": "Run",
+    "애플리케이션.memory.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Br.에어컨만들기" />
@@ -392,14 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00048" summary="2024.10.03">
-      <option name="closed" value="true" />
-      <created>1727959585267</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1727959585267</updated>
     </task>
     <task id="LOCAL-00049" summary="2024.10.03">
       <option name="closed" value="true" />
@@ -785,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728827895658</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="2024.10.14">
+      <option name="closed" value="true" />
+      <created>1728867001134</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1728867001134</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -817,7 +615,8 @@
     <MESSAGE value="2024.10.10" />
     <MESSAGE value="2024.10.11" />
     <MESSAGE value="2024.10.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.10.13" />
+    <MESSAGE value="2024.10.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.10.14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

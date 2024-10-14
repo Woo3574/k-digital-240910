@@ -32,10 +32,17 @@ public class JavaFinalReportMain {
         while (sc.hasNextLine()) { // 읽어들일 라인이 있으면 True
             String line = sc.nextLine(); // 문자열 한라인을 변수(String)에 담음
             String[] splitLine = line.split(" "); // 문자열을 공백기준으로 잘라 문자열 배열을 생성
+            // 생성자를 통해서 Student 객체를 리스트에 추가
+            // 생성자의 매개변수로 전달되는 내용은 파일에서 읽어들인 각 라인의 정보
+            // 국어, 영어, 수학 성적은 연산이 필요함으로 정수로 형변환
             list.add(new Student(splitLine[0], Integer.parseInt(splitLine[1]),
                     Integer.parseInt(splitLine[2]), Integer.parseInt(splitLine[3])));
         }
+        // 리스트를 정렬할때 사용하는 메서드
+        // 리스트의 객체를 정렬하는 경우 Comparable를 상속받아 compareTo 구현 해줘야 함
         Collections.sort(list);
+        // 향상된 for문으로 리스트를 순회하면서 요소를 출력
+        // 해당요소의 객체가 toString 오버라이딩 하는 경우 메서드 접근없이 toString() 내용 출력
         for (Student e : list) System.out.println(e);
     }
 }
@@ -59,8 +66,10 @@ class Student implements Comparable<Student>{
     @Override
     public int compareTo(Student o) {
         if(this.getTotalScore() != o.getTotalScore()) {
+            // 결과가 양수이면 정렬 조건이 됨
             return o.getTotalScore() - this.getTotalScore();
         } else {
+            // 총점이 같은 경우는 사전순 정렬을 하기 위해 문자열 비교 메서드 compareTo() 사용
             return this.name.compareTo(o.name);
         }
     }
