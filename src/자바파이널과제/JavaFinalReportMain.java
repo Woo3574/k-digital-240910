@@ -8,8 +8,64 @@ package 자바파이널과제;
 
 // 클래스하나를 만들어야한다
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
+
 public class JavaFinalReportMain {
     public static void main(String[] args) {
-        String file =  "student.txt";
+        FileInputStream inputStream = null;
+        try { // try catch 예외적인 상황이 발생할거 같은 경우 사용
+            // 상대 경로로 파일 가져 오기
+            inputStream = new FileInputStream("src/자바파이널과제/student.txt");
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+        // 스캐너객체를 생성하는데, 입력을 파일에서 읽어 들임
+        Scanner sc = new Scanner(inputStream);
+        // 10명의 데이터를 파일에서 읽어들여 객체로 만들어서 리스트에 저장
+        // 리스트의 특징, 입력 순서대로 저장이 되고, 정렬을 위해서 sort() 메서드를 불러줘야 함 시간의복잡도 O(1)
+        List<Student> list = new ArrayList<>();
+        while (sc.hasNextLine()) { // 읽어들일 라인이 있으면 True
+            String line = sc.nextLine(); // 문자열 한라인을 변수(String)에 담음
+            String[] splitLine = line.split(" "); // 문자열을 공백기준으로 잘라 문자열 배열을 생성
+            list.add(new Student(splitLine[0], Integer.parseInt(splitLine[1]),
+                    Integer.parseInt(splitLine[2]), Integer.parseInt(splitLine[3])));
+        }
+        Collections.sort(list);
+        for (Student e : list) System.out.println(e);
+    }
+}
+
+class Student implements Comparable<Student>{
+    String name;
+    int kor;
+    int eng;
+    int mat;
+
+    public Student(String name, int kor, int eng, int mat) {
+        this.name = name;
+        this.kor = kor;
+        this.eng = eng;
+        this.mat = mat;
+    }
+    public int getTotalScore() {
+        return kor + eng + mat;
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        if(this.getTotalScore() != o.getTotalScore()) {
+            return o.getTotalScore() - this.getTotalScore();
+        } else {
+            return this.name.compareTo(o.name);
+        }
+    }
+    @Override
+    public String toString() {
+        return name + " : " + getTotalScore();
     }
 }

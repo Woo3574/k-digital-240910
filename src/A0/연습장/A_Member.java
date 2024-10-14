@@ -8,27 +8,6 @@ package A0.연습장;
 // 1 ~ 4 이외의 값은 재 입력 요구
 // 모든 입력이 완료되면 결과는 한번에 출력
 
-//기본타입은 값을 힙영역에 바로넣지만
-//        참조타입은 힙영역에 값을 넣지않고 정수값을 가진 주소가 들어간다 랩핑
-//
-//        싱크로나이즈 : 크리티컬 섹션,임계영역, 락킹을거는 문법을 제공
-//        A 라는 인원이 작업하고있으면 B,C인원들이 동시작업을 진행하지못하게
-//        잠금,락을걸어버림
-
-//
-//hash는 해쉬 펑션으로 자료를 저장하는것
-//        List는 순서대로저장하는 것
-//        set은 중복을허용하지않는다, 수학적 표현은 집합
-//
-//        List = Array,Link,vec
-//        set = tree,hash
-//        map = tree,hash
-//
-//        나열을 했을때 root 가 처음과 끝의 사이에 있으면 in-order
-//        pre order = root 가 맨앞에
-//        in order = root 가 중간에
-//        post order = root 가 맨뒤에
-
 import java.util.Scanner;
 
 public class A_Member {
