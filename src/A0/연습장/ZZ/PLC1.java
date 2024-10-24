@@ -1,9 +1,6 @@
 package A0.연습장.ZZ;
 
-import java.util.List;
-import java.util.Scanner;
-
-public class 연습장 {
+public class PLC1 {
 
 //
 //    import DAO.Acc_InfoDAO;
