@@ -13,9 +13,10 @@ public class InheritanceBasicEx {
     public static void main(String[] args) {
         Dog dog =new Dog();
         dog.setName("댕댕이");
+        dog.sleep();
         System.out.println(dog.getName());
         HouseDog houseDog = new HouseDog();
-        houseDog.setName("댕댕이");
+        houseDog.setName("멍뭉이");
         houseDog.sleep(4);
     }
 }

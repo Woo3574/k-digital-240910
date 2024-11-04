@@ -8,7 +8,6 @@ public interface NetworkAdapter {
 
 class WiFi implements NetworkAdapter {
     String company;
-    int age;
     WiFi(String company) {
         this.company = company;
     }

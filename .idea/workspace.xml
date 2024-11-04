@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf5b54b0-b271-46d0-885e-9ca87eebd46b" name="변경" comment="2024.11.04">
-      <change afterPath="$PROJECT_DIR$/src/ZZa/오버로딩연습/OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZZb/상속과오버라이딩개념/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZZb/상속과오버라이딩개념/TestAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bg/상속기본형/InheritanceBasicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bg/상속기본형/InheritanceBasicEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bt/인터페이스기본/NetworkAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bt/인터페이스기본/NetworkAdapter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,14 +219,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727180480245</updated>
-    </task>
-    <task id="LOCAL-00062" summary="2024.10.06">
-      <option name="closed" value="true" />
-      <created>1728224153587</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1728224153587</updated>
     </task>
     <task id="LOCAL-00063" summary="2024.10.07">
       <option name="closed" value="true" />
@@ -613,7 +604,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730716376791</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="2024.11.04">
+      <option name="closed" value="true" />
+      <created>1730719072015</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1730719072015</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
